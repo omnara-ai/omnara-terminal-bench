@@ -1,0 +1,3515 @@
+{
+ "jobId": "",
+ "trials": [
+  {
+   "id": "3142c08d-bee2-4c04-8b32-e63f168d9849",
+   "task": "atrx-vep-crispr",
+   "trialName": "atrx-vep-crispr__a8qUYiw",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.6084812,
+   "trajectory": {
+    "modelCalls": 19,
+    "toolCalls": 18,
+    "agentSeconds": 490.754,
+    "inputTokens": 1116449,
+    "cachedTokens": 1025272,
+    "outputTokens": 27804,
+    "reasoningTokens": 15454,
+    "costUsd": 0.6084812
+   }
+  },
+  {
+   "id": "4b13a4aa-4ad2-4b48-8411-52578d8cf3a0",
+   "task": "atrx-vep-crispr",
+   "trialName": "atrx-vep-crispr__AnmYt6c",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5738022,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 544.654,
+    "inputTokens": 937890,
+    "cachedTokens": 863097,
+    "outputTokens": 30054,
+    "reasoningTokens": 16988,
+    "costUsd": 0.5738022
+   }
+  },
+  {
+   "id": "2948fa18-675e-464c-a9ef-4b85e9e0cdff",
+   "task": "atrx-vep-crispr",
+   "trialName": "atrx-vep-crispr__xNeHrqx",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.4552094,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 346.643,
+    "inputTokens": 828596,
+    "cachedTokens": 757789,
+    "outputTokens": 20244,
+    "reasoningTokens": 9826,
+    "costUsd": 0.4552094
+   }
+  },
+  {
+   "id": "6c637432-a5e0-4d90-84fd-87bf1b0a7dad",
+   "task": "batched-eval-parity",
+   "trialName": "batched-eval-parity__5KCFrxj",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9334602000000001,
+   "trajectory": {
+    "modelCalls": 28,
+    "toolCalls": 27,
+    "agentSeconds": 735.285,
+    "inputTokens": 1786466,
+    "cachedTokens": 1681972,
+    "outputTokens": 50407,
+    "reasoningTokens": 23636,
+    "costUsd": 0.9334602000000001
+   }
+  },
+  {
+   "id": "51d70733-9ec2-453c-b03f-f7aea8cf5dac",
+   "task": "batched-eval-parity",
+   "trialName": "batched-eval-parity__LRdi6TQ",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.7879746000000001,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 697.442,
+    "inputTokens": 1156324,
+    "cachedTokens": 1074101,
+    "outputTokens": 47504,
+    "reasoningTokens": 23549,
+    "costUsd": 0.7879746000000001
+   }
+  },
+  {
+   "id": "36f39928-70a1-49ec-9f6e-2ce59c37a6c6",
+   "task": "batched-eval-parity",
+   "trialName": "batched-eval-parity__soE4D7U",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.7333147,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 578.006,
+    "inputTokens": 922858,
+    "cachedTokens": 836202,
+    "outputTokens": 43308,
+    "reasoningTokens": 19636,
+    "costUsd": 0.7333147
+   }
+  },
+  {
+   "id": "2598a31e-cb91-484e-bdb0-d637ec219b28",
+   "task": "biped-contact-dynamics",
+   "trialName": "biped-contact-dynamics__DP5eYgY",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.2966502,
+   "trajectory": {
+    "modelCalls": 60,
+    "toolCalls": 59,
+    "agentSeconds": 2917.883,
+    "inputTokens": 5308014,
+    "cachedTokens": 5120977,
+    "outputTokens": 131705,
+    "reasoningTokens": 106366,
+    "costUsd": 2.2966502
+   }
+  },
+  {
+   "id": "f1260311-284a-4db6-abdc-78c96f06f7fe",
+   "task": "biped-contact-dynamics",
+   "trialName": "biped-contact-dynamics__QkK4zec",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.3729268000000001,
+   "trajectory": {
+    "modelCalls": 30,
+    "toolCalls": 29,
+    "agentSeconds": 1569.191,
+    "inputTokens": 2360178,
+    "cachedTokens": 2231568,
+    "outputTokens": 82829,
+    "reasoningTokens": 54859,
+    "costUsd": 1.3729268000000001
+   }
+  },
+  {
+   "id": "2944f536-4bfe-44cb-9d7b-c0f5634d2443",
+   "task": "biped-contact-dynamics",
+   "trialName": "biped-contact-dynamics__qNjke4t",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1554210000000003,
+   "trajectory": {
+    "modelCalls": 31,
+    "toolCalls": 30,
+    "agentSeconds": 1197.653,
+    "inputTokens": 2178651,
+    "cachedTokens": 2066075,
+    "outputTokens": 66742,
+    "reasoningTokens": 42579,
+    "costUsd": 1.1554210000000003
+   }
+  },
+  {
+   "id": "1f906374-5eb5-4dee-ac1d-ff7ab65664ee",
+   "task": "bun-sourcemap-leak",
+   "trialName": "bun-sourcemap-leak__A94MdUD",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.47058950000000005,
+   "trajectory": {
+    "modelCalls": 19,
+    "toolCalls": 18,
+    "agentSeconds": 475.303,
+    "inputTokens": 533136,
+    "cachedTokens": 483905,
+    "outputTokens": 29915,
+    "reasoningTokens": 17815,
+    "costUsd": 0.47058950000000005
+   }
+  },
+  {
+   "id": "4bb6386b-1a6d-4e4f-8edd-367e8f98cc0e",
+   "task": "bun-sourcemap-leak",
+   "trialName": "bun-sourcemap-leak__dBP6uzp",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.3991973,
+   "trajectory": {
+    "modelCalls": 15,
+    "toolCalls": 14,
+    "agentSeconds": 366.08,
+    "inputTokens": 417410,
+    "cachedTokens": 371348,
+    "outputTokens": 24693,
+    "reasoningTokens": 13565,
+    "costUsd": 0.3991973
+   }
+  },
+  {
+   "id": "033b9bf8-2ad6-4220-9a9e-24456cba793a",
+   "task": "bun-sourcemap-leak",
+   "trialName": "bun-sourcemap-leak__osWxqXD",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.3685887,
+   "trajectory": {
+    "modelCalls": 14,
+    "toolCalls": 13,
+    "agentSeconds": 387.339,
+    "inputTokens": 343613,
+    "cachedTokens": 303422,
+    "outputTokens": 23779,
+    "reasoningTokens": 15732,
+    "costUsd": 0.3685887
+   }
+  },
+  {
+   "id": "b546a192-bb03-4376-bf05-9c94e3637439",
+   "task": "cargo-flight-dispatch",
+   "trialName": "cargo-flight-dispatch__fkkLaC2",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.4785752000000001,
+   "trajectory": {
+    "modelCalls": 11,
+    "toolCalls": 10,
+    "agentSeconds": 467.594,
+    "inputTokens": 363585,
+    "cachedTokens": 305242,
+    "outputTokens": 30221,
+    "reasoningTokens": 16442,
+    "costUsd": 0.4785752000000001
+   }
+  },
+  {
+   "id": "cb9a3b49-1dfb-48e1-bf4a-032a0ea99fa0",
+   "task": "cargo-flight-dispatch",
+   "trialName": "cargo-flight-dispatch__xsXmhvu",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5351549,
+   "trajectory": {
+    "modelCalls": 12,
+    "toolCalls": 11,
+    "agentSeconds": 516.012,
+    "inputTokens": 414601,
+    "cachedTokens": 358029,
+    "outputTokens": 35794,
+    "reasoningTokens": 17643,
+    "costUsd": 0.5351549
+   }
+  },
+  {
+   "id": "d0b159e1-8134-49f9-a984-62d1d20fa86c",
+   "task": "cargo-flight-dispatch",
+   "trialName": "cargo-flight-dispatch__XwjJQq7",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5472026,
+   "trajectory": {
+    "modelCalls": 14,
+    "toolCalls": 13,
+    "agentSeconds": 503.723,
+    "inputTokens": 498240,
+    "cachedTokens": 435711,
+    "outputTokens": 34733,
+    "reasoningTokens": 17755,
+    "costUsd": 0.5472026
+   }
+  },
+  {
+   "id": "fb000371-8886-4aea-bc1e-c2c9385feba0",
+   "task": "coq-block-bound",
+   "trialName": "coq-block-bound__9wVEw8i",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.5212011000000001,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 534.529,
+    "inputTokens": 663770,
+    "cachedTokens": 603866,
+    "outputTokens": 31108,
+    "reasoningTokens": 19810,
+    "costUsd": 0.5212011000000001
+   }
+  },
+  {
+   "id": "61919a25-70d0-4d49-8008-3df90551df7a",
+   "task": "coq-block-bound",
+   "trialName": "coq-block-bound__bKYqFYg",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.5653347,
+   "trajectory": {
+    "modelCalls": 30,
+    "toolCalls": 29,
+    "agentSeconds": 585.617,
+    "inputTokens": 1198425,
+    "cachedTokens": 1141247,
+    "outputTokens": 30831,
+    "reasoningTokens": 20297,
+    "costUsd": 0.5653347
+   }
+  },
+  {
+   "id": "9803897b-ecf1-417f-994f-16e2426647eb",
+   "task": "coq-block-bound",
+   "trialName": "coq-block-bound__ovdCdf3",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.43331909999999996,
+   "trajectory": {
+    "modelCalls": 13,
+    "toolCalls": 12,
+    "agentSeconds": 451.764,
+    "inputTokens": 420290,
+    "cachedTokens": 371086,
+    "outputTokens": 27322,
+    "reasoningTokens": 17729,
+    "costUsd": 0.43331909999999996
+   }
+  },
+  {
+   "id": "b6b2beb4-e716-4428-a20d-8d19ec921be2",
+   "task": "ctr-optimization",
+   "trialName": "ctr-optimization__isQbs8c",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 7.247792199999999,
+   "trajectory": {
+    "modelCalls": 466,
+    "toolCalls": 464,
+    "agentSeconds": 17406.064,
+    "inputTokens": 48173908,
+    "cachedTokens": 47852712,
+    "outputTokens": 166023,
+    "reasoningTokens": 116457,
+    "costUsd": 7.247792199999999
+   }
+  },
+  {
+   "id": "4de19307-6aa4-453b-a794-9b483e6bdaef",
+   "task": "ctr-optimization",
+   "trialName": "ctr-optimization__NwyaCs7",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 12.719825399999987,
+   "trajectory": {
+    "modelCalls": 594,
+    "toolCalls": 592,
+    "agentSeconds": 17416.488,
+    "inputTokens": 88731388,
+    "cachedTokens": 88265889,
+    "outputTokens": 273038,
+    "reasoningTokens": 187669,
+    "costUsd": 12.719825399999987
+   }
+  },
+  {
+   "id": "a8b60fa3-bf3c-49d4-8fd8-7e6a044a8a00",
+   "task": "ctr-optimization",
+   "trialName": "ctr-optimization__R3B7fiu",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 9.124868100000002,
+   "trajectory": {
+    "modelCalls": 407,
+    "toolCalls": 482,
+    "agentSeconds": 17408.588,
+    "inputTokens": 46294702,
+    "cachedTokens": 45775411,
+    "outputTokens": 324971,
+    "reasoningTokens": 250694,
+    "costUsd": 9.124868100000002
+   }
+  },
+  {
+   "id": "3f4fc880-b41b-40b1-b50f-5b230ce69968",
+   "task": "cumulative-layout-shift",
+   "trialName": "cumulative-layout-shift__3hnHFrX",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 3.411837800000001,
+   "trajectory": {
+    "modelCalls": 118,
+    "toolCalls": 116,
+    "agentSeconds": 2875.032,
+    "inputTokens": 13823504,
+    "cachedTokens": 13478773,
+    "outputTokens": 120231,
+    "reasoningTokens": 76084,
+    "costUsd": 3.411837800000001
+   }
+  },
+  {
+   "id": "74bd0dab-7836-4fa7-8fd2-59fdc243fe18",
+   "task": "cumulative-layout-shift",
+   "trialName": "cumulative-layout-shift__pnWzaDk",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 4.124118899999997,
+   "trajectory": {
+    "modelCalls": 142,
+    "toolCalls": 140,
+    "agentSeconds": 3305.431,
+    "inputTokens": 17346227,
+    "cachedTokens": 16936294,
+    "outputTokens": 140587,
+    "reasoningTokens": 88688,
+    "costUsd": 4.124118899999997
+   }
+  },
+  {
+   "id": "d11c6562-6083-48f2-8801-9031a17d253d",
+   "task": "cumulative-layout-shift",
+   "trialName": "cumulative-layout-shift__YNAK2WA",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 3.8006604999999993,
+   "trajectory": {
+    "modelCalls": 114,
+    "toolCalls": 112,
+    "agentSeconds": 3128.049,
+    "inputTokens": 15177599,
+    "cachedTokens": 14749890,
+    "outputTokens": 125657,
+    "reasoningTokens": 76097,
+    "costUsd": 3.8006604999999993
+   }
+  },
+  {
+   "id": "b5771ff1-b0bb-499d-bd9d-7463db0fad52",
+   "task": "data-anonymization",
+   "trialName": "data-anonymization__4yK4YRN",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.0518676,
+   "trajectory": {
+    "modelCalls": 34,
+    "toolCalls": 33,
+    "agentSeconds": 1130.686,
+    "inputTokens": 2462942,
+    "cachedTokens": 2359836,
+    "outputTokens": 55817,
+    "reasoningTokens": 33297,
+    "costUsd": 1.0518676
+   }
+  },
+  {
+   "id": "c605d943-9c98-48e4-87f5-f191f624668c",
+   "task": "data-anonymization",
+   "trialName": "data-anonymization__NXYTbdk",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.3608055000000001,
+   "trajectory": {
+    "modelCalls": 33,
+    "toolCalls": 32,
+    "agentSeconds": 1419.064,
+    "inputTokens": 2688890,
+    "cachedTokens": 2555275,
+    "outputTokens": 77129,
+    "reasoningTokens": 48030,
+    "costUsd": 1.3608055000000001
+   }
+  },
+  {
+   "id": "5e1c2647-1fe1-4e88-8042-dee1566e8bc1",
+   "task": "data-anonymization",
+   "trialName": "data-anonymization__TSZR86c",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9596080999999999,
+   "trajectory": {
+    "modelCalls": 28,
+    "toolCalls": 27,
+    "agentSeconds": 1031.954,
+    "inputTokens": 1823549,
+    "cachedTokens": 1728451,
+    "outputTokens": 54906,
+    "reasoningTokens": 33989,
+    "costUsd": 0.9596080999999999
+   }
+  },
+  {
+   "id": "37a6a2a9-4f93-4b8c-8754-f1aad266211e",
+   "task": "distributed-dedup",
+   "trialName": "distributed-dedup__3RUi2qM",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.1111005,
+   "trajectory": {
+    "modelCalls": 29,
+    "toolCalls": 28,
+    "agentSeconds": 1394.747,
+    "inputTokens": 1839988,
+    "cachedTokens": 1736540,
+    "outputTokens": 67887,
+    "reasoningTokens": 50493,
+    "costUsd": 1.1111005
+   }
+  },
+  {
+   "id": "ef0b1c2f-1726-40fd-8804-3bcbc938fc22",
+   "task": "distributed-dedup",
+   "trialName": "distributed-dedup__884n5hs",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.0417561000000006,
+   "trajectory": {
+    "modelCalls": 60,
+    "toolCalls": 59,
+    "agentSeconds": 2559.7,
+    "inputTokens": 5420901,
+    "cachedTokens": 5252261,
+    "outputTokens": 109502,
+    "reasoningTokens": 90598,
+    "costUsd": 2.0417561000000006
+   }
+  },
+  {
+   "id": "62798cb2-d29e-4f7f-b948-11a5231fb1c1",
+   "task": "distributed-dedup",
+   "trialName": "distributed-dedup__8jkiwyG",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.9108664000000002,
+   "trajectory": {
+    "modelCalls": 40,
+    "toolCalls": 39,
+    "agentSeconds": 2598.243,
+    "inputTokens": 3461936,
+    "cachedTokens": 3289689,
+    "outputTokens": 115134,
+    "reasoningTokens": 96808,
+    "costUsd": 1.9108664000000002
+   }
+  },
+  {
+   "id": "836657a5-f7c7-4535-b085-dd6826153ba1",
+   "task": "embedding-drift-monitor",
+   "trialName": "embedding-drift-monitor__ARH6ikb",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6715751999999999,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 629.308,
+    "inputTokens": 948439,
+    "cachedTokens": 869267,
+    "outputTokens": 38675,
+    "reasoningTokens": 21665,
+    "costUsd": 0.6715751999999999
+   }
+  },
+  {
+   "id": "3081d681-f288-41a4-bd25-ec6097024da5",
+   "task": "embedding-drift-monitor",
+   "trialName": "embedding-drift-monitor__kd64kRU",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5104942,
+   "trajectory": {
+    "modelCalls": 15,
+    "toolCalls": 14,
+    "agentSeconds": 471.097,
+    "inputTokens": 573383,
+    "cachedTokens": 509217,
+    "outputTokens": 29918,
+    "reasoningTokens": 15521,
+    "costUsd": 0.5104942
+   }
+  },
+  {
+   "id": "5341f8dd-6536-4662-8232-0ab1457d1fa2",
+   "task": "embedding-drift-monitor",
+   "trialName": "embedding-drift-monitor__Tx4nVDs",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7852902,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 777.246,
+    "inputTokens": 933829,
+    "cachedTokens": 849017,
+    "outputTokens": 48839,
+    "reasoningTokens": 26683,
+    "costUsd": 0.7852902
+   }
+  },
+  {
+   "id": "cd354273-5676-433c-8dd5-9a02ce7b1c4d",
+   "task": "fin-saccr-rwa",
+   "trialName": "fin-saccr-rwa__aXoSGjH",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1934452,
+   "trajectory": {
+    "modelCalls": 44,
+    "toolCalls": 43,
+    "agentSeconds": 819.571,
+    "inputTokens": 2847969,
+    "cachedTokens": 2698582,
+    "outputTokens": 55019,
+    "reasoningTokens": 24104,
+    "costUsd": 1.1934452
+   }
+  },
+  {
+   "id": "4fb95664-d996-4f7f-9430-827ad4e85fef",
+   "task": "fin-saccr-rwa",
+   "trialName": "fin-saccr-rwa__CNeUkVj",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1243960000000004,
+   "trajectory": {
+    "modelCalls": 35,
+    "toolCalls": 34,
+    "agentSeconds": 950.954,
+    "inputTokens": 2358066,
+    "cachedTokens": 2232790,
+    "outputTokens": 58800,
+    "reasoningTokens": 27935,
+    "costUsd": 1.1243960000000004
+   }
+  },
+  {
+   "id": "6c082e8a-2638-4ccd-8df5-afaf443d0730",
+   "task": "fin-saccr-rwa",
+   "trialName": "fin-saccr-rwa__iq7jpSi",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1927655,
+   "trajectory": {
+    "modelCalls": 35,
+    "toolCalls": 34,
+    "agentSeconds": 951.987,
+    "inputTokens": 2441250,
+    "cachedTokens": 2300675,
+    "outputTokens": 61151,
+    "reasoningTokens": 30048,
+    "costUsd": 1.1927655
+   }
+  },
+  {
+   "id": "52221d08-1d40-459c-9c00-93ab0815c41c",
+   "task": "foodstuff-beta-activity",
+   "trialName": "foodstuff-beta-activity__imenmK6",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.28853140000000005,
+   "trajectory": {
+    "modelCalls": 15,
+    "toolCalls": 14,
+    "agentSeconds": 373.646,
+    "inputTokens": 339511,
+    "cachedTokens": 303364,
+    "outputTokens": 16785,
+    "reasoningTokens": 12073,
+    "costUsd": 0.28853140000000005
+   }
+  },
+  {
+   "id": "2316fcc7-629e-40a2-831f-679321cf6cbb",
+   "task": "foodstuff-beta-activity",
+   "trialName": "foodstuff-beta-activity__kTe8zqp",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.19271120000000003,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 198.98,
+    "inputTokens": 157379,
+    "cachedTokens": 128647,
+    "outputTokens": 10803,
+    "reasoningTokens": 7141,
+    "costUsd": 0.19271120000000003
+   }
+  },
+  {
+   "id": "4140dfb8-e459-4c03-8250-ca24a1d82161",
+   "task": "foodstuff-beta-activity",
+   "trialName": "foodstuff-beta-activity__Voc4GRS",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.1776811,
+   "trajectory": {
+    "modelCalls": 7,
+    "toolCalls": 6,
+    "agentSeconds": 196.186,
+    "inputTokens": 110960,
+    "cachedTokens": 84191,
+    "outputTokens": 10235,
+    "reasoningTokens": 7635,
+    "costUsd": 0.1776811
+   }
+  },
+  {
+   "id": "5ffe3e81-5164-4d6d-87ec-e1cb313c4bee",
+   "task": "formal-crypto",
+   "trialName": "formal-crypto__oqUcUJx",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.8817412000000002,
+   "trajectory": {
+    "modelCalls": 29,
+    "toolCalls": 28,
+    "agentSeconds": 658.291,
+    "inputTokens": 2354587,
+    "cachedTokens": 2230647,
+    "outputTokens": 34887,
+    "reasoningTokens": 23052,
+    "costUsd": 0.8817412000000002
+   }
+  },
+  {
+   "id": "a69f9e8f-d26f-412c-861e-01fdd4fb56cc",
+   "task": "formal-crypto",
+   "trialName": "formal-crypto__SC4x9iy",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1980889000000001,
+   "trajectory": {
+    "modelCalls": 42,
+    "toolCalls": 41,
+    "agentSeconds": 804.485,
+    "inputTokens": 4260787,
+    "cachedTokens": 4116719,
+    "outputTokens": 42631,
+    "reasoningTokens": 26805,
+    "costUsd": 1.1980889000000001
+   }
+  },
+  {
+   "id": "301d7c2a-a25e-424b-981f-46cd425db6ae",
+   "task": "formal-crypto",
+   "trialName": "formal-crypto__WsMCmbk",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1109376,
+   "trajectory": {
+    "modelCalls": 37,
+    "toolCalls": 36,
+    "agentSeconds": 852.319,
+    "inputTokens": 3439887,
+    "cachedTokens": 3297456,
+    "outputTokens": 42517,
+    "reasoningTokens": 29782,
+    "costUsd": 1.1109376
+   }
+  },
+  {
+   "id": "df6ab6d6-0289-47c5-bf21-9f2f07786a4a",
+   "task": "fp8-rmsnorm-gemm",
+   "trialName": "fp8-rmsnorm-gemm__Cjvn3sh",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.8372245,
+   "trajectory": {
+    "modelCalls": 59,
+    "toolCalls": 58,
+    "agentSeconds": 1553.241,
+    "inputTokens": 5467910,
+    "cachedTokens": 5285530,
+    "outputTokens": 85281,
+    "reasoningTokens": 49432,
+    "costUsd": 1.8372245
+   }
+  },
+  {
+   "id": "01a3fe0d-3380-4a33-9a54-b0c9b7c8f187",
+   "task": "fp8-rmsnorm-gemm",
+   "trialName": "fp8-rmsnorm-gemm__CxEBFPz",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.7358605999999996,
+   "trajectory": {
+    "modelCalls": 84,
+    "toolCalls": 83,
+    "agentSeconds": 2754.96,
+    "inputTokens": 9895854,
+    "cachedTokens": 9669141,
+    "outputTokens": 120245,
+    "reasoningTokens": 79243,
+    "costUsd": 2.7358605999999996
+   }
+  },
+  {
+   "id": "63db3368-a5b7-49fa-bd7b-2fdd69465270",
+   "task": "fp8-rmsnorm-gemm",
+   "trialName": "fp8-rmsnorm-gemm__su4bFia",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.4569445000000003,
+   "trajectory": {
+    "modelCalls": 70,
+    "toolCalls": 69,
+    "agentSeconds": 1323.853,
+    "inputTokens": 5103915,
+    "cachedTokens": 4968570,
+    "outputTokens": 62183,
+    "reasoningTokens": 42458,
+    "costUsd": 1.4569445000000003
+   }
+  },
+  {
+   "id": "bd793f4e-4d1d-4bb6-9164-fed0fb1457e6",
+   "task": "freecad-impeller",
+   "trialName": "freecad-impeller__HkDtY9J",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.4374174,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 419.226,
+    "inputTokens": 612769,
+    "cachedTokens": 564909,
+    "outputTokens": 26138,
+    "reasoningTokens": 13834,
+    "costUsd": 0.4374174
+   }
+  },
+  {
+   "id": "334a35b6-8e6c-43a1-a6cf-99897f960292",
+   "task": "freecad-impeller",
+   "trialName": "freecad-impeller__K5zucdu",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5312271,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 622.079,
+    "inputTokens": 769515,
+    "cachedTokens": 717551,
+    "outputTokens": 32971,
+    "reasoningTokens": 21651,
+    "costUsd": 0.5312271
+   }
+  },
+  {
+   "id": "75a46873-84f0-4633-bd2d-06b47331b373",
+   "task": "freecad-impeller",
+   "trialName": "freecad-impeller__ZsVeadB",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5942390000000002,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 599.801,
+    "inputTokens": 947932,
+    "cachedTokens": 880045,
+    "outputTokens": 33674,
+    "reasoningTokens": 21548,
+    "costUsd": 0.5942390000000002
+   }
+  },
+  {
+   "id": "264ed6e4-2fde-4356-b28a-b67ee8fda33c",
+   "task": "freecad-platform-drawing",
+   "trialName": "freecad-platform-drawing__bFQeq32",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4637202,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 427.735,
+    "inputTokens": 770501,
+    "cachedTokens": 708902,
+    "outputTokens": 23908,
+    "reasoningTokens": 14426,
+    "costUsd": 0.4637202
+   }
+  },
+  {
+   "id": "50221cf5-e7af-4ae9-999c-b9567aae8df1",
+   "task": "freecad-platform-drawing",
+   "trialName": "freecad-platform-drawing__poUH5j8",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3419006000000001,
+   "trajectory": {
+    "modelCalls": 14,
+    "toolCalls": 13,
+    "agentSeconds": 355.59,
+    "inputTokens": 381960,
+    "cachedTokens": 336651,
+    "outputTokens": 19540,
+    "reasoningTokens": 11566,
+    "costUsd": 0.3419006000000001
+   }
+  },
+  {
+   "id": "73fbd3ee-f910-47a9-b3e9-87e7a0fc9f91",
+   "task": "freecad-platform-drawing",
+   "trialName": "freecad-platform-drawing__PpSBJC6",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3965175999999999,
+   "trajectory": {
+    "modelCalls": 19,
+    "toolCalls": 18,
+    "agentSeconds": 365.165,
+    "inputTokens": 597947,
+    "cachedTokens": 544201,
+    "outputTokens": 20815,
+    "reasoningTokens": 10705,
+    "costUsd": 0.3965175999999999
+   }
+  },
+  {
+   "id": "24c4757c-b280-4ef0-ade6-9577bdc9126e",
+   "task": "freecad-spring-clip",
+   "trialName": "freecad-spring-clip__FvDm7pd",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.6560328999999999,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 592.001,
+    "inputTokens": 1133466,
+    "cachedTokens": 1058009,
+    "outputTokens": 36176,
+    "reasoningTokens": 21584,
+    "costUsd": 0.6560328999999999
+   }
+  },
+  {
+   "id": "4e7aff63-d1e8-44ab-9536-4acb74dd50bf",
+   "task": "freecad-spring-clip",
+   "trialName": "freecad-spring-clip__hbZBSJ8",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5496454000000001,
+   "trajectory": {
+    "modelCalls": 16,
+    "toolCalls": 15,
+    "agentSeconds": 609.031,
+    "inputTokens": 583316,
+    "cachedTokens": 526524,
+    "outputTokens": 35519,
+    "reasoningTokens": 23146,
+    "costUsd": 0.5496454000000001
+   }
+  },
+  {
+   "id": "0cc41193-3aad-430c-84f2-c6228ab99a5f",
+   "task": "freecad-spring-clip",
+   "trialName": "freecad-spring-clip__HgMuAJh",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.44435520000000006,
+   "trajectory": {
+    "modelCalls": 12,
+    "toolCalls": 11,
+    "agentSeconds": 502.291,
+    "inputTokens": 378365,
+    "cachedTokens": 330222,
+    "outputTokens": 29120,
+    "reasoningTokens": 19841,
+    "costUsd": 0.44435520000000006
+   }
+  },
+  {
+   "id": "305fdb7d-2295-48de-8843-cae0b85f58e8",
+   "task": "freight-dispatch-shift",
+   "trialName": "freight-dispatch-shift__6g5aQVS",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.2729084999999998,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 1437.778,
+    "inputTokens": 1255476,
+    "cachedTokens": 1135015,
+    "outputTokens": 85828,
+    "reasoningTokens": 48468,
+    "costUsd": 1.2729084999999998
+   }
+  },
+  {
+   "id": "69cde7ad-ad42-4df9-8307-bb1136ab1b1b",
+   "task": "freight-dispatch-shift",
+   "trialName": "freight-dispatch-shift__G4HaDYy",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.3816675999999999,
+   "trajectory": {
+    "modelCalls": 26,
+    "toolCalls": 25,
+    "agentSeconds": 1494.362,
+    "inputTokens": 2055410,
+    "cachedTokens": 1932666,
+    "outputTokens": 88158,
+    "reasoningTokens": 51225,
+    "costUsd": 1.3816675999999999
+   }
+  },
+  {
+   "id": "c48a0eb5-f710-4d57-9c18-c5937babd3b3",
+   "task": "freight-dispatch-shift",
+   "trialName": "freight-dispatch-shift__Zm3PpWw",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.2388778999999999,
+   "trajectory": {
+    "modelCalls": 16,
+    "toolCalls": 15,
+    "agentSeconds": 1473.117,
+    "inputTokens": 1042635,
+    "cachedTokens": 931894,
+    "outputTokens": 86886,
+    "reasoningTokens": 52960,
+    "costUsd": 1.2388778999999999
+   }
+  },
+  {
+   "id": "f894909a-20fa-46f0-9357-605aa9437440",
+   "task": "glycan-ms2-elucidation",
+   "trialName": "glycan-ms2-elucidation__DKwnQpb",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.2971073000000001,
+   "trajectory": {
+    "modelCalls": 13,
+    "toolCalls": 12,
+    "agentSeconds": 222.887,
+    "inputTokens": 486397,
+    "cachedTokens": 432273,
+    "outputTokens": 11873,
+    "reasoningTokens": 7909,
+    "costUsd": 0.2971073000000001
+   }
+  },
+  {
+   "id": "81912645-f854-4ca1-9ad0-7e01e8516e28",
+   "task": "glycan-ms2-elucidation",
+   "trialName": "glycan-ms2-elucidation__gruvCgh",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.2893827,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 218.684,
+    "inputTokens": 323234,
+    "cachedTokens": 265787,
+    "outputTokens": 11920,
+    "reasoningTokens": 8246,
+    "costUsd": 0.2893827
+   }
+  },
+  {
+   "id": "91be2f9e-ee81-47af-b507-598e013660ef",
+   "task": "glycan-ms2-elucidation",
+   "trialName": "glycan-ms2-elucidation__KoMRFom",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.21284020000000003,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 221.274,
+    "inputTokens": 161742,
+    "cachedTokens": 130617,
+    "outputTokens": 12212,
+    "reasoningTokens": 8753,
+    "costUsd": 0.21284020000000003
+   }
+  },
+  {
+   "id": "a9399d28-f38f-41b4-b894-fa0e4d1bd68a",
+   "task": "gsea-proteomics",
+   "trialName": "gsea-proteomics__gP5EFjb",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5045058,
+   "trajectory": {
+    "modelCalls": 27,
+    "toolCalls": 26,
+    "agentSeconds": 334.54,
+    "inputTokens": 1164955,
+    "cachedTokens": 1095713,
+    "outputTokens": 22187,
+    "reasoningTokens": 8012,
+    "costUsd": 0.5045058
+   }
+  },
+  {
+   "id": "7d6ab47e-ab28-4465-88c0-1d405e214ddc",
+   "task": "gsea-proteomics",
+   "trialName": "gsea-proteomics__X7mdsLo",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.40771050000000003,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 269.6,
+    "inputTokens": 690779,
+    "cachedTokens": 625650,
+    "outputTokens": 18235,
+    "reasoningTokens": 6094,
+    "costUsd": 0.40771050000000003
+   }
+  },
+  {
+   "id": "37fa4b97-3bf0-402c-86d3-eb3716df72fd",
+   "task": "gsea-proteomics",
+   "trialName": "gsea-proteomics__YBRkMRf",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.40800590000000003,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 296.007,
+    "inputTokens": 612025,
+    "cachedTokens": 550354,
+    "outputTokens": 19882,
+    "reasoningTokens": 7176,
+    "costUsd": 0.40800590000000003
+   }
+  },
+  {
+   "id": "ceb8e860-a755-4c31-a339-2cb6f7281ef2",
+   "task": "heat-pump-warranty",
+   "trialName": "heat-pump-warranty__2yJS7jY",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6065436999999998,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 314.355,
+    "inputTokens": 1349459,
+    "cachedTokens": 1219147,
+    "outputTokens": 16002,
+    "reasoningTokens": 8573,
+    "costUsd": 0.6065436999999998
+   }
+  },
+  {
+   "id": "a66dff1b-570f-4a22-97f0-8f09e571c908",
+   "task": "heat-pump-warranty",
+   "trialName": "heat-pump-warranty__4X3tBki",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6033667999999999,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 270.731,
+    "inputTokens": 1605617,
+    "cachedTokens": 1477053,
+    "outputTokens": 13531,
+    "reasoningTokens": 5892,
+    "costUsd": 0.6033667999999999
+   }
+  },
+  {
+   "id": "75c6903d-428a-4817-b15d-8f21b38ba845",
+   "task": "heat-pump-warranty",
+   "trialName": "heat-pump-warranty__YBnLKPh",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6142064,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 369.537,
+    "inputTokens": 1486957,
+    "cachedTokens": 1356874,
+    "outputTokens": 15437,
+    "reasoningTokens": 9433,
+    "costUsd": 0.6142064
+   }
+  },
+  {
+   "id": "83de6ba0-3230-4a11-b559-7125dd508a7c",
+   "task": "hof-topology-interpenetration",
+   "trialName": "hof-topology-interpenetration__BhpnARU",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.5439824000000001,
+   "trajectory": {
+    "modelCalls": 15,
+    "toolCalls": 14,
+    "agentSeconds": 373.05,
+    "inputTokens": 926101,
+    "cachedTokens": 828974,
+    "outputTokens": 21829,
+    "reasoningTokens": 12411,
+    "costUsd": 0.5439824000000001
+   }
+  },
+  {
+   "id": "85f5924e-129b-4e07-9da0-ace474201dce",
+   "task": "hof-topology-interpenetration",
+   "trialName": "hof-topology-interpenetration__PstWnQu",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6103349,
+   "trajectory": {
+    "modelCalls": 19,
+    "toolCalls": 18,
+    "agentSeconds": 364.039,
+    "inputTokens": 1296070,
+    "cachedTokens": 1184734,
+    "outputTokens": 21355,
+    "reasoningTokens": 10455,
+    "costUsd": 0.6103349
+   }
+  },
+  {
+   "id": "6039a38a-ff92-4d37-8da2-1b3d907fe0e2",
+   "task": "hof-topology-interpenetration",
+   "trialName": "hof-topology-interpenetration__r3gvF3z",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4241204,
+   "trajectory": {
+    "modelCalls": 16,
+    "toolCalls": 15,
+    "agentSeconds": 288.959,
+    "inputTokens": 777212,
+    "cachedTokens": 697869,
+    "outputTokens": 15600,
+    "reasoningTokens": 7705,
+    "costUsd": 0.4241204
+   }
+  },
+  {
+   "id": "aee9ee95-3a50-4880-b167-1a5b41fd15ee",
+   "task": "html-js-filter",
+   "trialName": "html-js-filter__arhgg22",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1522542,
+   "trajectory": {
+    "modelCalls": 25,
+    "toolCalls": 24,
+    "agentSeconds": 1498.418,
+    "inputTokens": 1401461,
+    "cachedTokens": 1299992,
+    "outputTokens": 76862,
+    "reasoningTokens": 57908,
+    "costUsd": 1.1522542
+   }
+  },
+  {
+   "id": "3ee429f1-3bf9-4eef-998c-5186fe507ce7",
+   "task": "html-js-filter",
+   "trialName": "html-js-filter__HoVKWwQ",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.3851240000000002,
+   "trajectory": {
+    "modelCalls": 28,
+    "toolCalls": 27,
+    "agentSeconds": 1741.322,
+    "inputTokens": 1851904,
+    "cachedTokens": 1726810,
+    "outputTokens": 89975,
+    "reasoningTokens": 66012,
+    "costUsd": 1.3851240000000002
+   }
+  },
+  {
+   "id": "0da8e034-2585-4c22-b891-699b3ac525b9",
+   "task": "html-js-filter",
+   "trialName": "html-js-filter__zEQGeRh",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.9669331,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 1311.689,
+    "inputTokens": 868274,
+    "cachedTokens": 776371,
+    "outputTokens": 66060,
+    "reasoningTokens": 47270,
+    "costUsd": 0.9669331
+   }
+  },
+  {
+   "id": "7a89bc3e-c052-4e33-9a5f-17ff1cc39467",
+   "task": "interleaved-vigenere",
+   "trialName": "interleaved-vigenere__A8tDfFf",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.0220739000000003,
+   "trajectory": {
+    "modelCalls": 46,
+    "toolCalls": 45,
+    "agentSeconds": 1120.896,
+    "inputTokens": 2615893,
+    "cachedTokens": 2525729,
+    "outputTokens": 54416,
+    "reasoningTokens": 35402,
+    "costUsd": 1.0220739000000003
+   }
+  },
+  {
+   "id": "b5ae2917-6115-4513-80d2-3f6bfb085db1",
+   "task": "interleaved-vigenere",
+   "trialName": "interleaved-vigenere__wnb4rjR",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.7918089999999999,
+   "trajectory": {
+    "modelCalls": 32,
+    "toolCalls": 31,
+    "agentSeconds": 938.83,
+    "inputTokens": 1464226,
+    "cachedTokens": 1386445,
+    "outputTokens": 45876,
+    "reasoningTokens": 30510,
+    "costUsd": 0.7918089999999999
+   }
+  },
+  {
+   "id": "0232146c-a8f0-4d0e-8597-7db88e3f381d",
+   "task": "interleaved-vigenere",
+   "trialName": "interleaved-vigenere__Xb8NCQM",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5546304,
+   "trajectory": {
+    "modelCalls": 26,
+    "toolCalls": 25,
+    "agentSeconds": 661.75,
+    "inputTokens": 992578,
+    "cachedTokens": 933694,
+    "outputTokens": 31409,
+    "reasoningTokens": 20565,
+    "costUsd": 0.5546304
+   }
+  },
+  {
+   "id": "89b3d5c5-b1bf-4475-be91-d990b207d958",
+   "task": "intrastat-meldung",
+   "trialName": "intrastat-meldung__enWi2dZ",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1734941,
+   "trajectory": {
+    "modelCalls": 35,
+    "toolCalls": 34,
+    "agentSeconds": 738.222,
+    "inputTokens": 3408238,
+    "cachedTokens": 3258541,
+    "outputTokens": 47345,
+    "reasoningTokens": 20581,
+    "costUsd": 1.1734941
+   }
+  },
+  {
+   "id": "820ee0b2-cb9b-4cb6-a208-340e2fa511b8",
+   "task": "intrastat-meldung",
+   "trialName": "intrastat-meldung__TbAkBMa",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.9663116,
+   "trajectory": {
+    "modelCalls": 36,
+    "toolCalls": 35,
+    "agentSeconds": 621.408,
+    "inputTokens": 2909004,
+    "cachedTokens": 2785406,
+    "outputTokens": 37883,
+    "reasoningTokens": 16477,
+    "costUsd": 0.9663116
+   }
+  },
+  {
+   "id": "1421d580-f732-4969-a224-a90b4ed691ae",
+   "task": "intrastat-meldung",
+   "trialName": "intrastat-meldung__WXSqgqy",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.0278936,
+   "trajectory": {
+    "modelCalls": 33,
+    "toolCalls": 32,
+    "agentSeconds": 646.778,
+    "inputTokens": 2969983,
+    "cachedTokens": 2836206,
+    "outputTokens": 40988,
+    "reasoningTokens": 17352,
+    "costUsd": 1.0278936
+   }
+  },
+  {
+   "id": "cda4e8a3-549e-413d-8807-4fae959f6472",
+   "task": "jax-speedrun-gpu",
+   "trialName": "jax-speedrun-gpu__3UUm4sf",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 9.429288300000003,
+   "trajectory": {
+    "modelCalls": 372,
+    "toolCalls": 369,
+    "agentSeconds": 14102.209,
+    "inputTokens": 43110147,
+    "cachedTokens": 42599763,
+    "outputTokens": 389391,
+    "reasoningTokens": 321376,
+    "costUsd": 9.429288300000003
+   }
+  },
+  {
+   "id": "4243321b-2e11-4423-a882-1f54c73a585c",
+   "task": "jax-speedrun-gpu",
+   "trialName": "jax-speedrun-gpu__DtmbNFo",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 17.984105500000023,
+   "trajectory": {
+    "modelCalls": 562,
+    "toolCalls": 556,
+    "agentSeconds": 26092.495,
+    "inputTokens": 72744268,
+    "cachedTokens": 71609778,
+    "outputTokens": 793180,
+    "reasoningTokens": 642518,
+    "costUsd": 17.984105500000023
+   }
+  },
+  {
+   "id": "dbd7d495-a164-4fd0-86b5-82e9b48fbbac",
+   "task": "jax-speedrun-gpu",
+   "trialName": "jax-speedrun-gpu__GwxcZs5",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 9.101370800000005,
+   "trajectory": {
+    "modelCalls": 366,
+    "toolCalls": 364,
+    "agentSeconds": 11971.896,
+    "inputTokens": 46748442,
+    "cachedTokens": 46297598,
+    "outputTokens": 334505,
+    "reasoningTokens": 265137,
+    "costUsd": 9.101370800000005
+   }
+  },
+  {
+   "id": "dcd18626-47b7-452e-a737-11379f094b44",
+   "task": "ks-solver-cpp",
+   "trialName": "ks-solver-cpp__3o27brK",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.3428413,
+   "trajectory": {
+    "modelCalls": 37,
+    "toolCalls": 36,
+    "agentSeconds": 1681.575,
+    "inputTokens": 2483764,
+    "cachedTokens": 2375043,
+    "outputTokens": 83359,
+    "reasoningTokens": 59587,
+    "costUsd": 1.3428413
+   }
+  },
+  {
+   "id": "2528e537-959c-4d86-9129-be8a64d452cf",
+   "task": "ks-solver-cpp",
+   "trialName": "ks-solver-cpp__8vZtas2",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.8071487000000006,
+   "trajectory": {
+    "modelCalls": 41,
+    "toolCalls": 40,
+    "agentSeconds": 2348.545,
+    "inputTokens": 3531082,
+    "cachedTokens": 3395052,
+    "outputTokens": 112763,
+    "reasoningTokens": 87073,
+    "costUsd": 1.8071487000000006
+   }
+  },
+  {
+   "id": "d5b2beb0-b29f-4365-9066-5cd52038da73",
+   "task": "ks-solver-cpp",
+   "trialName": "ks-solver-cpp__vkB6yn8",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.2450152,
+   "trajectory": {
+    "modelCalls": 55,
+    "toolCalls": 54,
+    "agentSeconds": 2627.772,
+    "inputTokens": 4876301,
+    "cachedTokens": 4694052,
+    "outputTokens": 132007,
+    "reasoningTokens": 95154,
+    "costUsd": 2.2450152
+   }
+  },
+  {
+   "id": "a7a3b5db-b39b-42b4-a7fe-b361b1093e32",
+   "task": "kv-live-surgery",
+   "trialName": "kv-live-surgery__2cMm4H6",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.1110765000000002,
+   "trajectory": {
+    "modelCalls": 46,
+    "toolCalls": 45,
+    "agentSeconds": 2024.298,
+    "inputTokens": 6055399,
+    "cachedTokens": 5855305,
+    "outputTokens": 102538,
+    "reasoningTokens": 69421,
+    "costUsd": 2.1110765000000002
+   }
+  },
+  {
+   "id": "52596e97-dc90-4e7f-ab7e-06cc48471c82",
+   "task": "kv-live-surgery",
+   "trialName": "kv-live-surgery__LfQi2pR",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.8296864000000002,
+   "trajectory": {
+    "modelCalls": 45,
+    "toolCalls": 44,
+    "agentSeconds": 1510.328,
+    "inputTokens": 5629147,
+    "cachedTokens": 5441989,
+    "outputTokens": 81766,
+    "reasoningTokens": 48724,
+    "costUsd": 1.8296864000000002
+   }
+  },
+  {
+   "id": "d8e15d9b-3297-4e29-8da7-4ac8aeb74e07",
+   "task": "kv-live-surgery",
+   "trialName": "kv-live-surgery__nDeYnzd",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.5762226000000001,
+   "trajectory": {
+    "modelCalls": 39,
+    "toolCalls": 38,
+    "agentSeconds": 1343.876,
+    "inputTokens": 4410331,
+    "cachedTokens": 4242711,
+    "outputTokens": 73296,
+    "reasoningTokens": 41340,
+    "costUsd": 1.5762226000000001
+   }
+  },
+  {
+   "id": "d36ceffc-4820-4d47-8b99-d97086174dfd",
+   "task": "lake-temp-glm",
+   "trialName": "lake-temp-glm__4FCqt4f",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.2180729000000006,
+   "trajectory": {
+    "modelCalls": 68,
+    "toolCalls": 67,
+    "agentSeconds": 1742.169,
+    "inputTokens": 8614998,
+    "cachedTokens": 8401024,
+    "outputTokens": 84324,
+    "reasoningTokens": 51835,
+    "costUsd": 2.2180729000000006
+   }
+  },
+  {
+   "id": "6bd96ac3-8387-4507-a3ca-35ac5640fda5",
+   "task": "lake-temp-glm",
+   "trialName": "lake-temp-glm__AXHzC9X",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 7.526757100000001,
+   "trajectory": {
+    "modelCalls": 251,
+    "toolCalls": 248,
+    "agentSeconds": 7981.566,
+    "inputTokens": 33192960,
+    "cachedTokens": 32570736,
+    "outputTokens": 271450,
+    "reasoningTokens": 186782,
+    "costUsd": 7.526757100000001
+   }
+  },
+  {
+   "id": "d5c8ed00-be18-4980-9a13-58b09b17fe9c",
+   "task": "lake-temp-glm",
+   "trialName": "lake-temp-glm__rV394JW",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.9145927999999999,
+   "trajectory": {
+    "modelCalls": 74,
+    "toolCalls": 73,
+    "agentSeconds": 1769.332,
+    "inputTokens": 6689846,
+    "cachedTokens": 6520263,
+    "outputTokens": 83897,
+    "reasoningTokens": 51115,
+    "costUsd": 1.9145927999999999
+   }
+  },
+  {
+   "id": "40ab0eb0-0d6c-4e22-b830-4f76192786ca",
+   "task": "layout-config-recreation",
+   "trialName": "layout-config-recreation__oDRmo6E",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.324154100000001,
+   "trajectory": {
+    "modelCalls": 66,
+    "toolCalls": 65,
+    "agentSeconds": 2182.032,
+    "inputTokens": 8118475,
+    "cachedTokens": 7884581,
+    "outputTokens": 95160,
+    "reasoningTokens": 64452,
+    "costUsd": 2.324154100000001
+   }
+  },
+  {
+   "id": "c1da0927-f551-4005-8ce6-c8516634c470",
+   "task": "layout-config-recreation",
+   "trialName": "layout-config-recreation__qc6xcE4",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.8557787000000006,
+   "trajectory": {
+    "modelCalls": 68,
+    "toolCalls": 67,
+    "agentSeconds": 1593.901,
+    "inputTokens": 6867696,
+    "cachedTokens": 6697427,
+    "outputTokens": 76107,
+    "reasoningTokens": 45757,
+    "costUsd": 1.8557787000000006
+   }
+  },
+  {
+   "id": "f97aa0a5-a80d-4607-b63b-a4bd54813d34",
+   "task": "layout-config-recreation",
+   "trialName": "layout-config-recreation__WFQyDhK",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.0607598000000014,
+   "trajectory": {
+    "modelCalls": 77,
+    "toolCalls": 76,
+    "agentSeconds": 1817.649,
+    "inputTokens": 7200488,
+    "cachedTokens": 7013573,
+    "outputTokens": 89260,
+    "reasoningTokens": 56251,
+    "costUsd": 2.0607598000000014
+   }
+  },
+  {
+   "id": "f4c13c73-778c-4b76-967e-24a14e29f598",
+   "task": "layout-config-recreation2",
+   "trialName": "layout-config-recreation2__44JmXqf",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3966275,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 283.786,
+    "inputTokens": 851369,
+    "cachedTokens": 775155,
+    "outputTokens": 12886,
+    "reasoningTokens": 6273,
+    "costUsd": 0.3966275
+   }
+  },
+  {
+   "id": "592b0857-3ebf-4d7b-abd4-f4e6a51a1ef5",
+   "task": "layout-config-recreation2",
+   "trialName": "layout-config-recreation2__h6zjC2P",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3979646,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 281.472,
+    "inputTokens": 892535,
+    "cachedTokens": 825896,
+    "outputTokens": 14900,
+    "reasoningTokens": 6972,
+    "costUsd": 0.3979646
+   }
+  },
+  {
+   "id": "e3a05711-6f36-4604-ba4b-11db8df82d21",
+   "task": "layout-config-recreation2",
+   "trialName": "layout-config-recreation2__VCyyQFr",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.47049179999999996,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 397.822,
+    "inputTokens": 890012,
+    "cachedTokens": 819303,
+    "outputTokens": 21219,
+    "reasoningTokens": 12406,
+    "costUsd": 0.47049179999999996
+   }
+  },
+  {
+   "id": "4c739375-a229-4a8d-b707-513b6e066a16",
+   "task": "legacy-utility-triage",
+   "trialName": "legacy-utility-triage__3DnTB7j",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.8798435000000007,
+   "trajectory": {
+    "modelCalls": 163,
+    "toolCalls": 162,
+    "agentSeconds": 3296.054,
+    "inputTokens": 19285083,
+    "cachedTokens": 19058575,
+    "outputTokens": 41708,
+    "reasoningTokens": 22088,
+    "costUsd": 2.8798435000000007
+   }
+  },
+  {
+   "id": "ea5768f9-12b7-4603-bff3-68e37585bab3",
+   "task": "legacy-utility-triage",
+   "trialName": "legacy-utility-triage__E3EzUBy",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.3281124,
+   "trajectory": {
+    "modelCalls": 65,
+    "toolCalls": 64,
+    "agentSeconds": 1569.378,
+    "inputTokens": 6268571,
+    "cachedTokens": 6051124,
+    "outputTokens": 18566,
+    "reasoningTokens": 6985,
+    "costUsd": 1.3281124
+   }
+  },
+  {
+   "id": "a1e0ed1b-ac9d-46f7-907c-e1be735f578c",
+   "task": "legacy-utility-triage",
+   "trialName": "legacy-utility-triage__k64RJcJ",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.0497726,
+   "trajectory": {
+    "modelCalls": 61,
+    "toolCalls": 60,
+    "agentSeconds": 932.873,
+    "inputTokens": 4726860,
+    "cachedTokens": 4567131,
+    "outputTokens": 19671,
+    "reasoningTokens": 7278,
+    "costUsd": 1.0497726
+   }
+  },
+  {
+   "id": "898982e2-b700-4620-8d49-eed2d979b92a",
+   "task": "live-database-cutover",
+   "trialName": "live-database-cutover__2P5uHe4",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.9932797,
+   "trajectory": {
+    "modelCalls": 62,
+    "toolCalls": 61,
+    "agentSeconds": 2796.37,
+    "inputTokens": 8683847,
+    "cachedTokens": 8438827,
+    "outputTokens": 153694,
+    "reasoningTokens": 92733,
+    "costUsd": 2.9932797
+   }
+  },
+  {
+   "id": "ece2c94d-f9ca-42ea-89f9-9c2fdaae6d76",
+   "task": "live-database-cutover",
+   "trialName": "live-database-cutover__bU6eGSQ",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.7777108000000004,
+   "trajectory": {
+    "modelCalls": 63,
+    "toolCalls": 62,
+    "agentSeconds": 2840.163,
+    "inputTokens": 7584553,
+    "cachedTokens": 7359378,
+    "outputTokens": 147893,
+    "reasoningTokens": 97725,
+    "costUsd": 2.7777108000000004
+   }
+  },
+  {
+   "id": "f2bdd453-826c-4081-968f-41936b87591b",
+   "task": "live-database-cutover",
+   "trialName": "live-database-cutover__pFFok6a",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.686138000000001,
+   "trajectory": {
+    "modelCalls": 56,
+    "toolCalls": 55,
+    "agentSeconds": 2928.486,
+    "inputTokens": 6905548,
+    "cachedTokens": 6688295,
+    "outputTokens": 147426,
+    "reasoningTokens": 96879,
+    "costUsd": 2.686138000000001
+   }
+  },
+  {
+   "id": "50a2702f-36f1-46d2-8316-ac095b3bb961",
+   "task": "math-eval-grader",
+   "trialName": "math-eval-grader__Q9e8Lqk",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9833358999999999,
+   "trajectory": {
+    "modelCalls": 29,
+    "toolCalls": 28,
+    "agentSeconds": 933.881,
+    "inputTokens": 1868486,
+    "cachedTokens": 1770719,
+    "outputTokens": 56189,
+    "reasoningTokens": 29462,
+    "costUsd": 0.9833358999999999
+   }
+  },
+  {
+   "id": "0bb9cad0-5be5-446a-873b-2a6223cd7fd7",
+   "task": "math-eval-grader",
+   "trialName": "math-eval-grader__sWf5v45",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1508175999999994,
+   "trajectory": {
+    "modelCalls": 42,
+    "toolCalls": 41,
+    "agentSeconds": 1424.928,
+    "inputTokens": 3289754,
+    "cachedTokens": 3185731,
+    "outputTokens": 57225,
+    "reasoningTokens": 30730,
+    "costUsd": 1.1508175999999994
+   }
+  },
+  {
+   "id": "13739a31-06bd-4ed4-8481-d72093a145ba",
+   "task": "math-eval-grader",
+   "trialName": "math-eval-grader__vBGRKXj",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.2093196,
+   "trajectory": {
+    "modelCalls": 28,
+    "toolCalls": 27,
+    "agentSeconds": 1221.627,
+    "inputTokens": 2330740,
+    "cachedTokens": 2211166,
+    "outputTokens": 68931,
+    "reasoningTokens": 39896,
+    "costUsd": 1.2093196
+   }
+  },
+  {
+   "id": "1d23c333-71e3-442d-8416-ccafb99e02a1",
+   "task": "medical-claims-processing",
+   "trialName": "medical-claims-processing__f2WBjKg",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9704167000000002,
+   "trajectory": {
+    "modelCalls": 32,
+    "toolCalls": 31,
+    "agentSeconds": 611.799,
+    "inputTokens": 2932281,
+    "cachedTokens": 2786022,
+    "outputTokens": 32721,
+    "reasoningTokens": 16143,
+    "costUsd": 0.9704167000000002
+   }
+  },
+  {
+   "id": "936725fc-7da6-4170-93a7-aa9bb90d417f",
+   "task": "medical-claims-processing",
+   "trialName": "medical-claims-processing__TEVY94C",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.4447213999999997,
+   "trajectory": {
+    "modelCalls": 35,
+    "toolCalls": 34,
+    "agentSeconds": 1168.176,
+    "inputTokens": 4075690,
+    "cachedTokens": 3878264,
+    "outputTokens": 56462,
+    "reasoningTokens": 37437,
+    "costUsd": 1.4447213999999997
+   }
+  },
+  {
+   "id": "d49be4db-9878-48cf-b24b-1575c799905c",
+   "task": "medical-claims-processing",
+   "trialName": "medical-claims-processing__uWV3SJG",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9468785,
+   "trajectory": {
+    "modelCalls": 25,
+    "toolCalls": 24,
+    "agentSeconds": 605.209,
+    "inputTokens": 2329695,
+    "cachedTokens": 2169910,
+    "outputTokens": 33170,
+    "reasoningTokens": 18400,
+    "costUsd": 0.9468785
+   }
+  },
+  {
+   "id": "f00258f4-bbae-4758-8dc4-9d904238960f",
+   "task": "mp-checkpoint-consolidation",
+   "trialName": "mp-checkpoint-consolidation__6FnDrzc",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.8512242999999999,
+   "trajectory": {
+    "modelCalls": 30,
+    "toolCalls": 29,
+    "agentSeconds": 786.318,
+    "inputTokens": 1896557,
+    "cachedTokens": 1801343,
+    "outputTokens": 43310,
+    "reasoningTokens": 29648,
+    "costUsd": 0.8512242999999999
+   }
+  },
+  {
+   "id": "68cd4b6b-254e-46b9-b4a1-62fc15d15ab9",
+   "task": "mp-checkpoint-consolidation",
+   "trialName": "mp-checkpoint-consolidation__giRrMr2",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.3541368,
+   "trajectory": {
+    "modelCalls": 45,
+    "toolCalls": 44,
+    "agentSeconds": 1382.937,
+    "inputTokens": 3534843,
+    "cachedTokens": 3407668,
+    "outputTokens": 69550,
+    "reasoningTokens": 49913,
+    "costUsd": 1.3541368
+   }
+  },
+  {
+   "id": "f4c79550-3551-40d5-8915-a327f10eebf1",
+   "task": "mp-checkpoint-consolidation",
+   "trialName": "mp-checkpoint-consolidation__vVpnc35",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7290001000000002,
+   "trajectory": {
+    "modelCalls": 25,
+    "toolCalls": 24,
+    "agentSeconds": 653.728,
+    "inputTokens": 1550992,
+    "cachedTokens": 1461301,
+    "outputTokens": 35868,
+    "reasoningTokens": 21765,
+    "costUsd": 0.7290001000000002
+   }
+  },
+  {
+   "id": "7aad35d2-c3e6-43d3-a174-7021d1620db1",
+   "task": "music-harmony",
+   "trialName": "music-harmony__dB7Pb7G",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.0858288,
+   "trajectory": {
+    "modelCalls": 33,
+    "toolCalls": 32,
+    "agentSeconds": 1147.236,
+    "inputTokens": 1937263,
+    "cachedTokens": 1828493,
+    "outputTokens": 63194,
+    "reasoningTokens": 49537,
+    "costUsd": 1.0858288
+   }
+  },
+  {
+   "id": "77afcd3c-7f0f-43a0-b986-b090a074efac",
+   "task": "music-harmony",
+   "trialName": "music-harmony__PiHW5vT",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9112974000000003,
+   "trajectory": {
+    "modelCalls": 31,
+    "toolCalls": 30,
+    "agentSeconds": 979.605,
+    "inputTokens": 1634566,
+    "cachedTokens": 1540189,
+    "outputTokens": 52230,
+    "reasoningTokens": 41132,
+    "costUsd": 0.9112974000000003
+   }
+  },
+  {
+   "id": "018ffae5-c428-4d43-a2ac-899ca3e6da89",
+   "task": "music-harmony",
+   "trialName": "music-harmony__xdhqDdN",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9451647000000001,
+   "trajectory": {
+    "modelCalls": 25,
+    "toolCalls": 24,
+    "agentSeconds": 991.863,
+    "inputTokens": 1513301,
+    "cachedTokens": 1409142,
+    "outputTokens": 54464,
+    "reasoningTokens": 43217,
+    "costUsd": 0.9451647000000001
+   }
+  },
+  {
+   "id": "b6cd20b1-2eec-4f6d-869d-3d99d2e46bdf",
+   "task": "mvcc-lsm-compaction",
+   "trialName": "mvcc-lsm-compaction__2Epj4Ab",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.23554630000000001,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 258.1,
+    "inputTokens": 201486,
+    "cachedTokens": 168023,
+    "outputTokens": 13510,
+    "reasoningTokens": 9426,
+    "costUsd": 0.23554630000000001
+   }
+  },
+  {
+   "id": "fd11fd44-2ac3-49e6-b1f4-643716e6a51f",
+   "task": "mvcc-lsm-compaction",
+   "trialName": "mvcc-lsm-compaction__f8gkJUH",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.21984930000000003,
+   "trajectory": {
+    "modelCalls": 8,
+    "toolCalls": 7,
+    "agentSeconds": 229.765,
+    "inputTokens": 175053,
+    "cachedTokens": 142638,
+    "outputTokens": 12456,
+    "reasoningTokens": 8422,
+    "costUsd": 0.21984930000000003
+   }
+  },
+  {
+   "id": "f595c6bd-738a-4d30-a9c0-1a26c9f5b11a",
+   "task": "mvcc-lsm-compaction",
+   "trialName": "mvcc-lsm-compaction__pKaQ9Ay",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.16055410000000003,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 143.812,
+    "inputTokens": 183912,
+    "cachedTokens": 154676,
+    "outputTokens": 7201,
+    "reasoningTokens": 4029,
+    "costUsd": 0.16055410000000003
+   }
+  },
+  {
+   "id": "79991b10-a3de-498a-9b3c-7a426c3b90c5",
+   "task": "nextjs-performance",
+   "trialName": "nextjs-performance__dEGqpvM",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.1784252000000004,
+   "trajectory": {
+    "modelCalls": 55,
+    "toolCalls": 54,
+    "agentSeconds": 2213.817,
+    "inputTokens": 5458137,
+    "cachedTokens": 5265552,
+    "outputTokens": 117049,
+    "reasoningTokens": 76230,
+    "costUsd": 2.1784252000000004
+   }
+  },
+  {
+   "id": "d9593aa9-e705-4cda-ac0e-abc8817d1499",
+   "task": "nextjs-performance",
+   "trialName": "nextjs-performance__QkpHiLr",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.9724931,
+   "trajectory": {
+    "modelCalls": 51,
+    "toolCalls": 50,
+    "agentSeconds": 2029.507,
+    "inputTokens": 4465888,
+    "cachedTokens": 4286531,
+    "outputTokens": 109564,
+    "reasoningTokens": 70699,
+    "costUsd": 1.9724931
+   }
+  },
+  {
+   "id": "1bde5282-b21a-467d-95ea-94d83d87599a",
+   "task": "nextjs-performance",
+   "trialName": "nextjs-performance__RuMAWGC",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.2817363000000002,
+   "trajectory": {
+    "modelCalls": 43,
+    "toolCalls": 42,
+    "agentSeconds": 1159.687,
+    "inputTokens": 2977172,
+    "cachedTokens": 2840458,
+    "outputTokens": 65597,
+    "reasoningTokens": 38577,
+    "costUsd": 1.2817363000000002
+   }
+  },
+  {
+   "id": "afe44576-fe73-4645-9c43-f2886a23a0e2",
+   "task": "ontology-kg-querying",
+   "trialName": "ontology-kg-querying__GKakvJe",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9797021000000001,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 967.351,
+    "inputTokens": 1689055,
+    "cachedTokens": 1561301,
+    "outputTokens": 50422,
+    "reasoningTokens": 32550,
+    "costUsd": 0.9797021000000001
+   }
+  },
+  {
+   "id": "b8c4b10f-8717-4ac3-8928-779eb1216334",
+   "task": "ontology-kg-querying",
+   "trialName": "ontology-kg-querying__qnhkgCF",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9898493,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 894.527,
+    "inputTokens": 1557595,
+    "cachedTokens": 1417113,
+    "outputTokens": 49696,
+    "reasoningTokens": 33694,
+    "costUsd": 0.9898493
+   }
+  },
+  {
+   "id": "5637bc10-0ab6-480c-bb27-3206a2776f64",
+   "task": "ontology-kg-querying",
+   "trialName": "ontology-kg-querying__Wkxz37o",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.9778615,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 755.869,
+    "inputTokens": 2075609,
+    "cachedTokens": 1926695,
+    "outputTokens": 41294,
+    "reasoningTokens": 24159,
+    "costUsd": 0.9778615
+   }
+  },
+  {
+   "id": "39e43280-9d29-4bec-8efa-6a9b9bba00be",
+   "task": "payments-pipeline-fix",
+   "trialName": "payments-pipeline-fix__98HKu5p",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.8319045,
+   "trajectory": {
+    "modelCalls": 43,
+    "toolCalls": 42,
+    "agentSeconds": 2027.691,
+    "inputTokens": 3827050,
+    "cachedTokens": 3663215,
+    "outputTokens": 105606,
+    "reasoningTokens": 71116,
+    "costUsd": 1.8319045
+   }
+  },
+  {
+   "id": "3a2b09be-da13-4974-ad4f-10c6605b7eb3",
+   "task": "payments-pipeline-fix",
+   "trialName": "payments-pipeline-fix__bk7SpNY",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.4852114,
+   "trajectory": {
+    "modelCalls": 44,
+    "toolCalls": 43,
+    "agentSeconds": 1597.241,
+    "inputTokens": 3152890,
+    "cachedTokens": 3015024,
+    "outputTokens": 83911,
+    "reasoningTokens": 52961,
+    "costUsd": 1.4852114
+   }
+  },
+  {
+   "id": "167ddbf0-6551-415c-9eca-52adec94707a",
+   "task": "payments-pipeline-fix",
+   "trialName": "payments-pipeline-fix__QyHqGoz",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1730696000000003,
+   "trajectory": {
+    "modelCalls": 42,
+    "toolCalls": 41,
+    "agentSeconds": 1246.059,
+    "inputTokens": 2307594,
+    "cachedTokens": 2197626,
+    "outputTokens": 67845,
+    "reasoningTokens": 38747,
+    "costUsd": 1.1730696000000003
+   }
+  },
+  {
+   "id": "f1a0238f-7923-4ad9-8057-dbf7440e3d65",
+   "task": "photonic-waveguide-routing",
+   "trialName": "photonic-waveguide-routing__d2RGsbS",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.3710216000000002,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 2007.267,
+    "inputTokens": 1563566,
+    "cachedTokens": 1442746,
+    "outputTokens": 92473,
+    "reasoningTokens": 84092,
+    "costUsd": 1.3710216000000002
+   }
+  },
+  {
+   "id": "9950decf-77b4-4946-a5e1-fd3a5f70f889",
+   "task": "photonic-waveguide-routing",
+   "trialName": "photonic-waveguide-routing__hywdb4y",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.1784786,
+   "trajectory": {
+    "modelCalls": 19,
+    "toolCalls": 18,
+    "agentSeconds": 1672.458,
+    "inputTokens": 1384472,
+    "cachedTokens": 1272621,
+    "outputTokens": 77179,
+    "reasoningTokens": 67418,
+    "costUsd": 1.1784786
+   }
+  },
+  {
+   "id": "cfd699b1-d727-48c2-8dcc-7c934b02ffc0",
+   "task": "photonic-waveguide-routing",
+   "trialName": "photonic-waveguide-routing__uJjK9ZM",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.9216815000000003,
+   "trajectory": {
+    "modelCalls": 15,
+    "toolCalls": 14,
+    "agentSeconds": 1326.273,
+    "inputTokens": 888638,
+    "cachedTokens": 798700,
+    "outputTokens": 61725,
+    "reasoningTokens": 56262,
+    "costUsd": 0.9216815000000003
+   }
+  },
+  {
+   "id": "42fd44f6-d56a-41f3-9469-dcd333ce2658",
+   "task": "pretrain-shard-corruption",
+   "trialName": "pretrain-shard-corruption__cjLtePd",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.8415050000000001,
+   "trajectory": {
+    "modelCalls": 31,
+    "toolCalls": 30,
+    "agentSeconds": 809.799,
+    "inputTokens": 1865843,
+    "cachedTokens": 1768390,
+    "outputTokens": 42108,
+    "reasoningTokens": 26928,
+    "costUsd": 0.8415050000000001
+   }
+  },
+  {
+   "id": "7a63d941-d418-4df3-b53b-7d24adace79c",
+   "task": "pretrain-shard-corruption",
+   "trialName": "pretrain-shard-corruption__JRqH8ja",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.4660006000000003,
+   "trajectory": {
+    "modelCalls": 38,
+    "toolCalls": 37,
+    "agentSeconds": 1365.568,
+    "inputTokens": 3922684,
+    "cachedTokens": 3761351,
+    "outputTokens": 68659,
+    "reasoningTokens": 49404,
+    "costUsd": 1.4660006000000003
+   }
+  },
+  {
+   "id": "0bec03d3-fa6c-468d-94f3-1b823b0e427e",
+   "task": "pretrain-shard-corruption",
+   "trialName": "pretrain-shard-corruption__moZMfxb",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6517259999999999,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 512.809,
+    "inputTokens": 1384559,
+    "cachedTokens": 1287000,
+    "outputTokens": 27916,
+    "reasoningTokens": 16481,
+    "costUsd": 0.6517259999999999
+   }
+  },
+  {
+   "id": "be72c13b-c245-4e49-9131-29ed15f95ca0",
+   "task": "production-planning",
+   "trialName": "production-planning__DBZLgYE",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.7805832999999999,
+   "trajectory": {
+    "modelCalls": 24,
+    "toolCalls": 23,
+    "agentSeconds": 694.792,
+    "inputTokens": 1332289,
+    "cachedTokens": 1235393,
+    "outputTokens": 41484,
+    "reasoningTokens": 23864,
+    "costUsd": 0.7805832999999999
+   }
+  },
+  {
+   "id": "e97a7e1a-7355-40dd-9d1f-4f01d8ff905f",
+   "task": "production-planning",
+   "trialName": "production-planning__NbyTnir",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.7172982000000001,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 600.543,
+    "inputTokens": 1130121,
+    "cachedTokens": 1034062,
+    "outputTokens": 37377,
+    "reasoningTokens": 20958,
+    "costUsd": 0.7172982000000001
+   }
+  },
+  {
+   "id": "060e7e8b-0dd1-4ba4-9bf0-49f05bc163cb",
+   "task": "production-planning",
+   "trialName": "production-planning__xNfaKav",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.8185962,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 749.929,
+    "inputTokens": 1254116,
+    "cachedTokens": 1154542,
+    "outputTokens": 45424,
+    "reasoningTokens": 26569,
+    "costUsd": 0.8185962
+   }
+  },
+  {
+   "id": "f74a3839-c3c9-41bf-8a80-747bc31b7073",
+   "task": "protein-autointerp-disulfide",
+   "trialName": "protein-autointerp-disulfide__7BiRCj2",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5807104,
+   "trajectory": {
+    "modelCalls": 26,
+    "toolCalls": 25,
+    "agentSeconds": 1086.281,
+    "inputTokens": 1100798,
+    "cachedTokens": 1039144,
+    "outputTokens": 32270,
+    "reasoningTokens": 27020,
+    "costUsd": 0.5807104
+   }
+  },
+  {
+   "id": "a048b4a8-832a-4392-ac04-091db9e97d6e",
+   "task": "protein-autointerp-disulfide",
+   "trialName": "protein-autointerp-disulfide__dXvpaEe",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.5755989000000001,
+   "trajectory": {
+    "modelCalls": 20,
+    "toolCalls": 19,
+    "agentSeconds": 1061.897,
+    "inputTokens": 763701,
+    "cachedTokens": 696889,
+    "outputTokens": 33891,
+    "reasoningTokens": 27752,
+    "costUsd": 0.5755989000000001
+   }
+  },
+  {
+   "id": "b6c8c2f6-81db-4b82-a3c6-1eb7b1cf6d5d",
+   "task": "protein-autointerp-disulfide",
+   "trialName": "protein-autointerp-disulfide__knGphY5",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6045258,
+   "trajectory": {
+    "modelCalls": 23,
+    "toolCalls": 22,
+    "agentSeconds": 839.352,
+    "inputTokens": 906571,
+    "cachedTokens": 834778,
+    "outputTokens": 34160,
+    "reasoningTokens": 26309,
+    "costUsd": 0.6045258
+   }
+  },
+  {
+   "id": "ced474f0-ee65-42ee-896a-1382a1294711",
+   "task": "react-lead-form",
+   "trialName": "react-lead-form__docFe92",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.8576355000000001,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 876.136,
+    "inputTokens": 877073,
+    "cachedTokens": 796775,
+    "outputTokens": 57724,
+    "reasoningTokens": 31951,
+    "costUsd": 0.8576355000000001
+   }
+  },
+  {
+   "id": "1a91334d-bb3c-43ea-b51b-386c85e26b0c",
+   "task": "react-lead-form",
+   "trialName": "react-lead-form__rANGKvp",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.8815854000000003,
+   "trajectory": {
+    "modelCalls": 18,
+    "toolCalls": 17,
+    "agentSeconds": 903.761,
+    "inputTokens": 878460,
+    "cachedTokens": 790974,
+    "outputTokens": 58380,
+    "reasoningTokens": 35242,
+    "costUsd": 0.8815854000000003
+   }
+  },
+  {
+   "id": "8dd774db-1f02-4191-b25a-c7eb56e691bf",
+   "task": "react-lead-form",
+   "trialName": "react-lead-form__ztsKyEF",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.1181898000000003,
+   "trajectory": {
+    "modelCalls": 26,
+    "toolCalls": 25,
+    "agentSeconds": 1053.55,
+    "inputTokens": 1645516,
+    "cachedTokens": 1539263,
+    "outputTokens": 69867,
+    "reasoningTokens": 37775,
+    "costUsd": 1.1181898000000003
+   }
+  },
+  {
+   "id": "71ca6c63-19e4-4d8c-ab3c-57ca8bcef9b4",
+   "task": "retro-console-soc",
+   "trialName": "retro-console-soc__9ShqeBG",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.5381518999999995,
+   "trajectory": {
+    "modelCalls": 46,
+    "toolCalls": 45,
+    "agentSeconds": 2671.474,
+    "inputTokens": 5018717,
+    "cachedTokens": 4815609,
+    "outputTokens": 154889,
+    "reasoningTokens": 85864,
+    "costUsd": 2.5381518999999995
+   }
+  },
+  {
+   "id": "1f9e732f-b519-41e4-8056-7957773b9f8f",
+   "task": "retro-console-soc",
+   "trialName": "retro-console-soc__oPyZDzj",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.4675935000000004,
+   "trajectory": {
+    "modelCalls": 29,
+    "toolCalls": 28,
+    "agentSeconds": 1487.889,
+    "inputTokens": 2261194,
+    "cachedTokens": 2128805,
+    "outputTokens": 92379,
+    "reasoningTokens": 43959,
+    "costUsd": 1.4675935000000004
+   }
+  },
+  {
+   "id": "b7a63f59-106e-4010-aef6-dd06a08e25e2",
+   "task": "retro-console-soc",
+   "trialName": "retro-console-soc__xyLJmEQ",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.0779292,
+   "trajectory": {
+    "modelCalls": 46,
+    "toolCalls": 45,
+    "agentSeconds": 2102.847,
+    "inputTokens": 4310516,
+    "cachedTokens": 4143107,
+    "outputTokens": 124522,
+    "reasoningTokens": 62990,
+    "costUsd": 2.0779292
+   }
+  },
+  {
+   "id": "e5d0fc4c-6945-4834-830b-bcb294776e30",
+   "task": "risk-scorer-replay",
+   "trialName": "risk-scorer-replay__4aTNmLM",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.0380464000000003,
+   "trajectory": {
+    "modelCalls": 26,
+    "toolCalls": 25,
+    "agentSeconds": 734.793,
+    "inputTokens": 1540022,
+    "cachedTokens": 1431656,
+    "outputTokens": 55088,
+    "reasoningTokens": 21438,
+    "costUsd": 1.0380464000000003
+   }
+  },
+  {
+   "id": "7f97ec5c-6c38-4395-a283-daf186107101",
+   "task": "risk-scorer-replay",
+   "trialName": "risk-scorer-replay__BMLnQCA",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.8640624000000001,
+   "trajectory": {
+    "modelCalls": 21,
+    "toolCalls": 20,
+    "agentSeconds": 732.674,
+    "inputTokens": 1111339,
+    "cachedTokens": 1012589,
+    "outputTokens": 51596,
+    "reasoningTokens": 23536,
+    "costUsd": 0.8640624000000001
+   }
+  },
+  {
+   "id": "4a03e217-9d4f-4b0e-b1d5-a557c37a2b2a",
+   "task": "risk-scorer-replay",
+   "trialName": "risk-scorer-replay__FgQLsxt",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7775128,
+   "trajectory": {
+    "modelCalls": 22,
+    "toolCalls": 21,
+    "agentSeconds": 692.303,
+    "inputTokens": 1044790,
+    "cachedTokens": 951783,
+    "outputTokens": 44985,
+    "reasoningTokens": 23882,
+    "costUsd": 0.7775128
+   }
+  },
+  {
+   "id": "5ddd763e-6592-4ff3-9e4e-84ef96a353fa",
+   "task": "roy-polymorph-cn",
+   "trialName": "roy-polymorph-cn__BKgYM7E",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.16572540000000002,
+   "trajectory": {
+    "modelCalls": 7,
+    "toolCalls": 6,
+    "agentSeconds": 156.067,
+    "inputTokens": 126579,
+    "cachedTokens": 100584,
+    "outputTokens": 9069,
+    "reasoningTokens": 4868,
+    "costUsd": 0.16572540000000002
+   }
+  },
+  {
+   "id": "4738f4e6-d383-4d49-b699-8f2b364440a4",
+   "task": "roy-polymorph-cn",
+   "trialName": "roy-polymorph-cn__oVjVf4x",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.1604409,
+   "trajectory": {
+    "modelCalls": 6,
+    "toolCalls": 5,
+    "agentSeconds": 162.713,
+    "inputTokens": 105627,
+    "cachedTokens": 79849,
+    "outputTokens": 8802,
+    "reasoningTokens": 5553,
+    "costUsd": 0.1604409
+   }
+  },
+  {
+   "id": "0dff1dfd-d6d5-4fec-8008-0e6b7495bd50",
+   "task": "roy-polymorph-cn",
+   "trialName": "roy-polymorph-cn__pTCNFNL",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 0.12881030000000002,
+   "trajectory": {
+    "modelCalls": 6,
+    "toolCalls": 5,
+    "agentSeconds": 108.709,
+    "inputTokens": 93117,
+    "cachedTokens": 71043,
+    "outputTokens": 6653,
+    "reasoningTokens": 3299,
+    "costUsd": 0.12881030000000002
+   }
+  },
+  {
+   "id": "9c404f11-d598-4183-a59b-f001e600eef7",
+   "task": "rs-archive-clone",
+   "trialName": "rs-archive-clone__gsufRzF",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.3977814999999993,
+   "trajectory": {
+    "modelCalls": 64,
+    "toolCalls": 63,
+    "agentSeconds": 2049.407,
+    "inputTokens": 8065875,
+    "cachedTokens": 7846475,
+    "outputTokens": 106473,
+    "reasoningTokens": 63335,
+    "costUsd": 2.3977814999999993
+   }
+  },
+  {
+   "id": "b7115fc6-45c0-4583-ad31-e4a35dd1159f",
+   "task": "rs-archive-clone",
+   "trialName": "rs-archive-clone__rodrVyt",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.9298490000000001,
+   "trajectory": {
+    "modelCalls": 47,
+    "toolCalls": 46,
+    "agentSeconds": 1626.807,
+    "inputTokens": 5216455,
+    "cachedTokens": 5026445,
+    "outputTokens": 95225,
+    "reasoningTokens": 48679,
+    "costUsd": 1.9298490000000001
+   }
+  },
+  {
+   "id": "a7aeb281-ff06-4229-93f4-ca3391f42214",
+   "task": "rs-archive-clone",
+   "trialName": "rs-archive-clone__ZgemH4F",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.9385083000000003,
+   "trajectory": {
+    "modelCalls": 52,
+    "toolCalls": 51,
+    "agentSeconds": 1699.678,
+    "inputTokens": 5526669,
+    "cachedTokens": 5347418,
+    "outputTokens": 95589,
+    "reasoningTokens": 52126,
+    "costUsd": 1.9385083000000003
+   }
+  },
+  {
+   "id": "294c056d-6e45-4e09-be88-9a076ff3ddf8",
+   "task": "satb-audio-transcription",
+   "trialName": "satb-audio-transcription__gzFBiSi",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.5528462000000001,
+   "trajectory": {
+    "modelCalls": 31,
+    "toolCalls": 30,
+    "agentSeconds": 520.929,
+    "inputTokens": 1150454,
+    "cachedTokens": 1073382,
+    "outputTokens": 25306,
+    "reasoningTokens": 15690,
+    "costUsd": 0.5528462000000001
+   }
+  },
+  {
+   "id": "7f1cd1cd-b742-464e-ae87-0c29cafe1a15",
+   "task": "satb-audio-transcription",
+   "trialName": "satb-audio-transcription__qYxFVZF",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7231372000000001,
+   "trajectory": {
+    "modelCalls": 27,
+    "toolCalls": 26,
+    "agentSeconds": 826.072,
+    "inputTokens": 1066329,
+    "cachedTokens": 974147,
+    "outputTokens": 39573,
+    "reasoningTokens": 29663,
+    "costUsd": 0.7231372000000001
+   }
+  },
+  {
+   "id": "ddba0fa6-0450-44cf-b80f-3a2121924c59",
+   "task": "satb-audio-transcription",
+   "trialName": "satb-audio-transcription__Usi9PDL",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7245443999999999,
+   "trajectory": {
+    "modelCalls": 31,
+    "toolCalls": 30,
+    "agentSeconds": 657.206,
+    "inputTokens": 1608341,
+    "cachedTokens": 1508044,
+    "outputTokens": 32382,
+    "reasoningTokens": 20263,
+    "costUsd": 0.7245443999999999
+   }
+  },
+  {
+   "id": "35d8cb3a-af30-4504-aa6b-775e05fb5434",
+   "task": "session-window-debug",
+   "trialName": "session-window-debug__Bb82YPB",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.37034030000000007,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 403.956,
+    "inputTokens": 243426,
+    "cachedTokens": 194188,
+    "outputTokens": 22784,
+    "reasoningTokens": 16305,
+    "costUsd": 0.37034030000000007
+   }
+  },
+  {
+   "id": "d543bc08-074e-46c2-913d-2c9af15d7339",
+   "task": "session-window-debug",
+   "trialName": "session-window-debug__p45bacp",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.45429150000000007,
+   "trajectory": {
+    "modelCalls": 14,
+    "toolCalls": 13,
+    "agentSeconds": 466.757,
+    "inputTokens": 476469,
+    "cachedTokens": 422925,
+    "outputTokens": 27816,
+    "reasoningTokens": 18127,
+    "costUsd": 0.45429150000000007
+   }
+  },
+  {
+   "id": "b9dc0787-e293-4931-a21c-9e1caf04995e",
+   "task": "session-window-debug",
+   "trialName": "session-window-debug__rbr2rJ9",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4034207000000001,
+   "trajectory": {
+    "modelCalls": 14,
+    "toolCalls": 13,
+    "agentSeconds": 397.769,
+    "inputTokens": 416429,
+    "cachedTokens": 363367,
+    "outputTokens": 23445,
+    "reasoningTokens": 15392,
+    "costUsd": 0.4034207000000001
+   }
+  },
+  {
+   "id": "3f18d466-090f-4aef-aa80-b47266be988e",
+   "task": "sglang-qwen-burst",
+   "trialName": "sglang-qwen-burst__2oXRdLj",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.1301723,
+   "trajectory": {
+    "modelCalls": 64,
+    "toolCalls": 62,
+    "agentSeconds": 1117.33,
+    "inputTokens": 8660039,
+    "cachedTokens": 8391333,
+    "outputTokens": 61937,
+    "reasoningTokens": 32002,
+    "costUsd": 2.1301723
+   }
+  },
+  {
+   "id": "784431ce-cd92-4f1e-ad5b-f346c5e7ff4d",
+   "task": "sglang-qwen-burst",
+   "trialName": "sglang-qwen-burst__d46qKvm",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.7272428,
+   "trajectory": {
+    "modelCalls": 92,
+    "toolCalls": 90,
+    "agentSeconds": 1375.271,
+    "inputTokens": 12591016,
+    "cachedTokens": 12278383,
+    "outputTokens": 71796,
+    "reasoningTokens": 40326,
+    "costUsd": 2.7272428
+   }
+  },
+  {
+   "id": "787eec96-f70f-4c98-9e3a-23d5a9c0ff26",
+   "task": "sglang-qwen-burst",
+   "trialName": "sglang-qwen-burst__mocVhdz",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.3329133000000004,
+   "trajectory": {
+    "modelCalls": 73,
+    "toolCalls": 72,
+    "agentSeconds": 1153.967,
+    "inputTokens": 10939684,
+    "cachedTokens": 10701253,
+    "outputTokens": 66682,
+    "reasoningTokens": 39441,
+    "costUsd": 2.3329133000000004
+   }
+  },
+  {
+   "id": "2ecfab13-e302-4b63-a50a-932aefda8891",
+   "task": "shadow-relay",
+   "trialName": "shadow-relay__KjmGfYJ",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.2836059,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 123.048,
+    "inputTokens": 371198,
+    "cachedTokens": 308894,
+    "outputTokens": 9697,
+    "reasoningTokens": 3268,
+    "costUsd": 0.2836059
+   }
+  },
+  {
+   "id": "d7bad2e8-a9fc-43bd-ac62-5df25cfaf238",
+   "task": "shadow-relay",
+   "trialName": "shadow-relay__MsUq8aj",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.35359690000000005,
+   "trajectory": {
+    "modelCalls": 12,
+    "toolCalls": 11,
+    "agentSeconds": 192.058,
+    "inputTokens": 549121,
+    "cachedTokens": 482824,
+    "outputTokens": 13959,
+    "reasoningTokens": 5490,
+    "costUsd": 0.35359690000000005
+   }
+  },
+  {
+   "id": "f44c1c77-f0c1-44fd-a41a-0517d5e7c216",
+   "task": "shadow-relay",
+   "trialName": "shadow-relay__qK2vpof",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.2320173,
+   "trajectory": {
+    "modelCalls": 10,
+    "toolCalls": 9,
+    "agentSeconds": 114.375,
+    "inputTokens": 298943,
+    "cachedTokens": 254198,
+    "outputTokens": 9475,
+    "reasoningTokens": 2595,
+    "costUsd": 0.2320173
+   }
+  },
+  {
+   "id": "3a70247f-2c71-49b2-8d79-9ed0d8441450",
+   "task": "sound-change-cascade",
+   "trialName": "sound-change-cascade__8bsbyFp",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3899512,
+   "trajectory": {
+    "modelCalls": 17,
+    "toolCalls": 16,
+    "agentSeconds": 376.534,
+    "inputTokens": 577011,
+    "cachedTokens": 521717,
+    "outputTokens": 19957,
+    "reasoningTokens": 14682,
+    "costUsd": 0.3899512
+   }
+  },
+  {
+   "id": "01e4a9d6-3af5-4a12-a59f-b80f0f174067",
+   "task": "sound-change-cascade",
+   "trialName": "sound-change-cascade__CPCJsrL",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.39715750000000005,
+   "trajectory": {
+    "modelCalls": 13,
+    "toolCalls": 12,
+    "agentSeconds": 437.218,
+    "inputTokens": 394990,
+    "cachedTokens": 340545,
+    "outputTokens": 22701,
+    "reasoningTokens": 17798,
+    "costUsd": 0.39715750000000005
+   }
+  },
+  {
+   "id": "b0e1f862-38e8-4828-ad0f-98379d87b4e6",
+   "task": "sound-change-cascade",
+   "trialName": "sound-change-cascade__SANjaJo",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.3822707,
+   "trajectory": {
+    "modelCalls": 13,
+    "toolCalls": 12,
+    "agentSeconds": 423.425,
+    "inputTokens": 416914,
+    "cachedTokens": 362677,
+    "outputTokens": 21043,
+    "reasoningTokens": 16676,
+    "costUsd": 0.3822707
+   }
+  },
+  {
+   "id": "b3c038f8-0aeb-4c4b-a58f-97e5c1eccada",
+   "task": "takens-embedding-lean",
+   "trialName": "takens-embedding-lean__QLzhLCm",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 3.997052000000001,
+   "trajectory": {
+    "modelCalls": 132,
+    "toolCalls": 130,
+    "agentSeconds": 2309.376,
+    "inputTokens": 16792080,
+    "cachedTokens": 16367925,
+    "outputTokens": 130007,
+    "reasoningTokens": 60031,
+    "costUsd": 3.997052000000001
+   }
+  },
+  {
+   "id": "da8a7588-d581-4639-a234-49c02deea77a",
+   "task": "takens-embedding-lean",
+   "trialName": "takens-embedding-lean__R3HrE5v",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 4.075773600000001,
+   "trajectory": {
+    "modelCalls": 134,
+    "toolCalls": 132,
+    "agentSeconds": 2197.081,
+    "inputTokens": 18294862,
+    "cachedTokens": 17881921,
+    "outputTokens": 125543,
+    "reasoningTokens": 58680,
+    "costUsd": 4.075773600000001
+   }
+  },
+  {
+   "id": "f7eaea72-c37e-4582-85bf-1449c4cf437d",
+   "task": "takens-embedding-lean",
+   "trialName": "takens-embedding-lean__wRPgfFn",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 3.6581855000000005,
+   "trajectory": {
+    "modelCalls": 121,
+    "toolCalls": 120,
+    "agentSeconds": 2169.047,
+    "inputTokens": 14976885,
+    "cachedTokens": 14594235,
+    "outputTokens": 124232,
+    "reasoningTokens": 56171,
+    "costUsd": 3.6581855000000005
+   }
+  },
+  {
+   "id": "745de3bb-6a90-49f9-98cb-28c7e3fb5192",
+   "task": "telecom-entity-resolution",
+   "trialName": "telecom-entity-resolution__dheBoTP",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.8208910000000003,
+   "trajectory": {
+    "modelCalls": 52,
+    "toolCalls": 51,
+    "agentSeconds": 1863.874,
+    "inputTokens": 4789782,
+    "cachedTokens": 4601415,
+    "outputTokens": 88991,
+    "reasoningTokens": 59189,
+    "costUsd": 1.8208910000000003
+   }
+  },
+  {
+   "id": "661fdb87-ba49-4ec8-8d25-e945d3f8376c",
+   "task": "telecom-entity-resolution",
+   "trialName": "telecom-entity-resolution__vEcHLWW",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.7187768,
+   "trajectory": {
+    "modelCalls": 49,
+    "toolCalls": 48,
+    "agentSeconds": 1658.343,
+    "inputTokens": 4973031,
+    "cachedTokens": 4784078,
+    "outputTokens": 76806,
+    "reasoningTokens": 52569,
+    "costUsd": 1.7187768
+   }
+  },
+  {
+   "id": "47860329-ca92-4d22-988f-c6f6c5609ee4",
+   "task": "telecom-entity-resolution",
+   "trialName": "telecom-entity-resolution__w39nTp7",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.3985432999999996,
+   "trajectory": {
+    "modelCalls": 50,
+    "toolCalls": 49,
+    "agentSeconds": 2634.061,
+    "inputTokens": 6220555,
+    "cachedTokens": 5977183,
+    "outputTokens": 119247,
+    "reasoningTokens": 89056,
+    "costUsd": 2.3985432999999996
+   }
+  },
+  {
+   "id": "8b9bbe68-e308-428f-840e-b2eee89792e8",
+   "task": "uefi-bootkit",
+   "trialName": "uefi-bootkit__pVSPQAZ",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.7905304000000001,
+   "trajectory": {
+    "modelCalls": 34,
+    "toolCalls": 33,
+    "agentSeconds": 449.934,
+    "inputTokens": 2314566,
+    "cachedTokens": 2198689,
+    "outputTokens": 28102,
+    "reasoningTokens": 12668,
+    "costUsd": 0.7905304000000001
+   }
+  },
+  {
+   "id": "97d59ff0-b242-427d-96ab-0a921911719a",
+   "task": "uefi-bootkit",
+   "trialName": "uefi-bootkit__Rvwx46Z",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.5926295,
+   "trajectory": {
+    "modelCalls": 70,
+    "toolCalls": 69,
+    "agentSeconds": 1292.739,
+    "inputTokens": 10796784,
+    "cachedTokens": 10517756,
+    "outputTokens": 66148,
+    "reasoningTokens": 37013,
+    "costUsd": 2.5926295
+   }
+  },
+  {
+   "id": "1734273d-faf2-49d0-a62f-4ac62642ce71",
+   "task": "uefi-bootkit",
+   "trialName": "uefi-bootkit__t5RDWw9",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.6849788,
+   "trajectory": {
+    "modelCalls": 28,
+    "toolCalls": 27,
+    "agentSeconds": 389.27,
+    "inputTokens": 1714292,
+    "cachedTokens": 1597458,
+    "outputTokens": 23319,
+    "reasoningTokens": 10522,
+    "costUsd": 0.6849788
+   }
+  },
+  {
+   "id": "d5a9d275-2050-4109-ae23-c407818aba55",
+   "task": "vba-userform-port",
+   "trialName": "vba-userform-port__LhU2vBv",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.0535608,
+   "trajectory": {
+    "modelCalls": 49,
+    "toolCalls": 47,
+    "agentSeconds": 1630.029,
+    "inputTokens": 5692934,
+    "cachedTokens": 5492764,
+    "outputTokens": 91753,
+    "reasoningTokens": 40805,
+    "costUsd": 2.0535608
+   }
+  },
+  {
+   "id": "7256899a-d09c-457c-a8b7-4265e471432a",
+   "task": "vba-userform-port",
+   "trialName": "vba-userform-port__meKriip",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.7091182999999994,
+   "trajectory": {
+    "modelCalls": 36,
+    "toolCalls": 35,
+    "agentSeconds": 1349.268,
+    "inputTokens": 4283835,
+    "cachedTokens": 4095323,
+    "outputTokens": 82836,
+    "reasoningTokens": 31049,
+    "costUsd": 1.7091182999999994
+   }
+  },
+  {
+   "id": "494db05a-42dd-413b-b27c-2af9a3c7db38",
+   "task": "vba-userform-port",
+   "trialName": "vba-userform-port__qJ5mepE",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 2.3782507000000006,
+   "trajectory": {
+    "modelCalls": 45,
+    "toolCalls": 44,
+    "agentSeconds": 2050.528,
+    "inputTokens": 6446884,
+    "cachedTokens": 6204987,
+    "outputTokens": 115365,
+    "reasoningTokens": 60447,
+    "costUsd": 2.3782507000000006
+   }
+  },
+  {
+   "id": "0127b6dd-fdbb-418a-84e4-c79fc2d7a2b0",
+   "task": "vf2-speedup-networkx",
+   "trialName": "vf2-speedup-networkx__5kCLVMm",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.6897998999999997,
+   "trajectory": {
+    "modelCalls": 46,
+    "toolCalls": 45,
+    "agentSeconds": 1670.404,
+    "inputTokens": 3864217,
+    "cachedTokens": 3714914,
+    "outputTokens": 94512,
+    "reasoningTokens": 52903,
+    "costUsd": 1.6897998999999997
+   }
+  },
+  {
+   "id": "36d71c22-0555-4a8b-9dc9-7505ad394091",
+   "task": "vf2-speedup-networkx",
+   "trialName": "vf2-speedup-networkx__CAYXUap",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.0088173000000005,
+   "trajectory": {
+    "modelCalls": 35,
+    "toolCalls": 34,
+    "agentSeconds": 2410.403,
+    "inputTokens": 2923654,
+    "cachedTokens": 2749398,
+    "outputTokens": 129829,
+    "reasoningTokens": 80668,
+    "costUsd": 2.0088173000000005
+   }
+  },
+  {
+   "id": "c164f290-0966-42b6-8add-ccc54d4b3844",
+   "task": "vf2-speedup-networkx",
+   "trialName": "vf2-speedup-networkx__snxBWVc",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 1.4487103000000001,
+   "trajectory": {
+    "modelCalls": 37,
+    "toolCalls": 36,
+    "agentSeconds": 1534.202,
+    "inputTokens": 2358982,
+    "cachedTokens": 2243308,
+    "outputTokens": 93525,
+    "reasoningTokens": 48648,
+    "costUsd": 1.4487103000000001
+   }
+  },
+  {
+   "id": "7455edfb-8a39-43bb-9255-aff152bdfd31",
+   "task": "vllm-deepseek-streaming",
+   "trialName": "vllm-deepseek-streaming__aLAwXjF",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.3964827000000004,
+   "trajectory": {
+    "modelCalls": 43,
+    "toolCalls": 42,
+    "agentSeconds": 1053.534,
+    "inputTokens": 4068292,
+    "cachedTokens": 3906622,
+    "outputTokens": 60171,
+    "reasoningTokens": 37873,
+    "costUsd": 1.3964827000000004
+   }
+  },
+  {
+   "id": "d1de0cd9-5d9b-42ee-af75-0b296058297e",
+   "task": "vllm-deepseek-streaming",
+   "trialName": "vllm-deepseek-streaming__QQLG5AF",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.6996259,
+   "trajectory": {
+    "modelCalls": 47,
+    "toolCalls": 46,
+    "agentSeconds": 1475.876,
+    "inputTokens": 4908084,
+    "cachedTokens": 4727639,
+    "outputTokens": 77582,
+    "reasoningTokens": 51973,
+    "costUsd": 1.6996259
+   }
+  },
+  {
+   "id": "1f18f242-6682-44b7-b457-914973e8a965",
+   "task": "vllm-deepseek-streaming",
+   "trialName": "vllm-deepseek-streaming__ZzZnXcs",
+   "reward": 0,
+   "exception": null,
+   "hubCostUsd": 1.1831509000000002,
+   "trajectory": {
+    "modelCalls": 37,
+    "toolCalls": 36,
+    "agentSeconds": 843.57,
+    "inputTokens": 3321312,
+    "cachedTokens": 3171414,
+    "outputTokens": 49132,
+    "reasoningTokens": 31652,
+    "costUsd": 1.1831509000000002
+   }
+  },
+  {
+   "id": "690a4af6-39f1-4ff2-baf9-c3f412d05f23",
+   "task": "vpp-loss-divergence",
+   "trialName": "vpp-loss-divergence__KAE9run",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.39927160000000006,
+   "trajectory": {
+    "modelCalls": 24,
+    "toolCalls": 23,
+    "agentSeconds": 188.824,
+    "inputTokens": 1293864,
+    "cachedTokens": 1221151,
+    "outputTokens": 9541,
+    "reasoningTokens": 3873,
+    "costUsd": 0.39927160000000006
+   }
+  },
+  {
+   "id": "9b33e2f3-9340-4921-b794-50d69c00c2ee",
+   "task": "vpp-loss-divergence",
+   "trialName": "vpp-loss-divergence__TEbiBks",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.5506005,
+   "trajectory": {
+    "modelCalls": 24,
+    "toolCalls": 23,
+    "agentSeconds": 207.148,
+    "inputTokens": 1822929,
+    "cachedTokens": 1714740,
+    "outputTokens": 10869,
+    "reasoningTokens": 4352,
+    "costUsd": 0.5506005
+   }
+  },
+  {
+   "id": "198cc79c-694a-416c-a81b-1747335b7cf6",
+   "task": "vpp-loss-divergence",
+   "trialName": "vpp-loss-divergence__zR8LkfC",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4642039000000001,
+   "trajectory": {
+    "modelCalls": 23,
+    "toolCalls": 22,
+    "agentSeconds": 222.798,
+    "inputTokens": 1348548,
+    "cachedTokens": 1260734,
+    "outputTokens": 11863,
+    "reasoningTokens": 5685,
+    "costUsd": 0.4642039000000001
+   }
+  },
+  {
+   "id": "499d5cf6-2860-4872-a501-3536a4c6b167",
+   "task": "wal-recovery-ordering",
+   "trialName": "wal-recovery-ordering__LcHQdjW",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4227347,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 413.911,
+    "inputTokens": 281170,
+    "cachedTokens": 231107,
+    "outputTokens": 27448,
+    "reasoningTokens": 15921,
+    "costUsd": 0.4227347
+   }
+  },
+  {
+   "id": "c07defc6-56cb-4963-bc99-a7ded5e6086e",
+   "task": "wal-recovery-ordering",
+   "trialName": "wal-recovery-ordering__V9ApeQz",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.39051710000000006,
+   "trajectory": {
+    "modelCalls": 7,
+    "toolCalls": 6,
+    "agentSeconds": 392.823,
+    "inputTokens": 193740,
+    "cachedTokens": 147351,
+    "outputTokens": 25982,
+    "reasoningTokens": 16184,
+    "costUsd": 0.39051710000000006
+   }
+  },
+  {
+   "id": "adf0a202-23bc-4374-9af0-bb18cc27dcc2",
+   "task": "wal-recovery-ordering",
+   "trialName": "wal-recovery-ordering__ZAiUogT",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 0.4068807,
+   "trajectory": {
+    "modelCalls": 9,
+    "toolCalls": 8,
+    "agentSeconds": 415.752,
+    "inputTokens": 275790,
+    "cachedTokens": 225967,
+    "outputTokens": 25974,
+    "reasoningTokens": 16457,
+    "costUsd": 0.4068807
+   }
+  },
+  {
+   "id": "9436cb0a-296f-44d6-b707-758c5e24d888",
+   "task": "wdm-design",
+   "trialName": "wdm-design__FoqyaAg",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.0822448999999996,
+   "trajectory": {
+    "modelCalls": 81,
+    "toolCalls": 80,
+    "agentSeconds": 2407.719,
+    "inputTokens": 7381440,
+    "cachedTokens": 7206244,
+    "outputTokens": 92411,
+    "reasoningTokens": 63292,
+    "costUsd": 2.0822448999999996
+   }
+  },
+  {
+   "id": "f644f345-e9bc-404d-8ff0-405efc94434e",
+   "task": "wdm-design",
+   "trialName": "wdm-design__jHkvnpc",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.5804913,
+   "trajectory": {
+    "modelCalls": 85,
+    "toolCalls": 84,
+    "agentSeconds": 2456.886,
+    "inputTokens": 8923593,
+    "cachedTokens": 8721438,
+    "outputTokens": 120317,
+    "reasoningTokens": 82510,
+    "costUsd": 2.5804913
+   }
+  },
+  {
+   "id": "5b730d86-b310-4199-9d29-e89cfaf1a592",
+   "task": "wdm-design",
+   "trialName": "wdm-design__xHuaWuM",
+   "reward": 1,
+   "exception": null,
+   "hubCostUsd": 2.188299200000001,
+   "trajectory": {
+    "modelCalls": 108,
+    "toolCalls": 107,
+    "agentSeconds": 2661.735,
+    "inputTokens": 8767374,
+    "cachedTokens": 8610522,
+    "outputTokens": 93560,
+    "reasoningTokens": 63459,
+    "costUsd": 2.188299200000001
+   }
+  }
+ ]
+}

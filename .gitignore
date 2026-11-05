@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local run state and Harbor job output (trial logs, trajectories, sandbox output)
+.runs/
+jobs/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# Editors and OS
+.DS_Store
+*.log

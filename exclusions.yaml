@@ -1,0 +1,20 @@
+default:
+  - terminal-bench/cad-model
+  - terminal-bench/formal-crypto
+  - terminal-bench/html-js-filter
+  - terminal-bench/interleaved-vigenere
+  - terminal-bench/shadow-relay
+  - terminal-bench/uefi-bootkit
+  - terminal-bench/break-filter-js-from-html
+  - terminal-bench/crack-7z-hash
+  - terminal-bench/filter-js-from-html
+  - terminal-bench/fix-code-vulnerability
+  - terminal-bench/openssl-selfsigned-cert
+  - terminal-bench/password-recovery
+  - terminal-bench/sanitize-git-repo
+  - terminal-bench/vulnerable-secret
+
+gpu:
+  - terminal-bench/fp8-rmsnorm-gemm
+  - terminal-bench/jax-speedrun-gpu
+  - terminal-bench/math-eval-grader

@@ -1,0 +1,252 @@
+[
+ {
+  "run": "run1",
+  "task": "cumulative-layout-shift",
+  "agentId": "agt_swae2k32tjeqnjscrbeaj2xm7u",
+  "checkpointId": "ccp_agq2inqbhr2mzldojq6nxy4nsa",
+  "sequence": 214,
+  "inputTokens": 172772,
+  "outputTokens": 8401,
+  "costUsd": 0.5159385
+ },
+ {
+  "run": "run1",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_mzlqduk3vbfn7ed5uxv6a2qr4m",
+  "checkpointId": "ccp_agq2jqdtsf5lnltw44qxhui6u4",
+  "sequence": 277,
+  "inputTokens": 66194,
+  "outputTokens": 10043,
+  "costUsd": 0.2659135
+ },
+ {
+  "run": "run1",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_mzlqduk3vbfn7ed5uxv6a2qr4m",
+  "checkpointId": "ccp_agq2kiioaz4nlcnpo6pt34r3ja",
+  "sequence": 408,
+  "inputTokens": 62315,
+  "outputTokens": 10439,
+  "costUsd": 0.260176
+ },
+ {
+  "run": "run1",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_mzlqduk3vbfn7ed5uxv6a2qr4m",
+  "checkpointId": "ccp_agq2kzg4lj6fbhdkqvuxb5nlea",
+  "sequence": 504,
+  "inputTokens": 43136,
+  "outputTokens": 10612,
+  "costUsd": 0.2139585
+ },
+ {
+  "run": "run1",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_mzlqduk3vbfn7ed5uxv6a2qr4m",
+  "checkpointId": "ccp_agq2lme6wfznxbobj27ltfaunu",
+  "sequence": 595,
+  "inputTokens": 51676,
+  "outputTokens": 12920,
+  "costUsd": 0.2583885
+ },
+ {
+  "run": "run1",
+  "task": "medical-claims-processing",
+  "agentId": "agt_s2cuwmgncfho7pgixlpcwt4gpq",
+  "checkpointId": "ccp_agq2igbsyr6b5fzuxqf7434toy",
+  "sequence": 57,
+  "inputTokens": 57547,
+  "outputTokens": 7688,
+  "costUsd": 0.220746
+ },
+ {
+  "run": "run1",
+  "task": "takens-embedding-lean",
+  "agentId": "agt_32jdtugjpzbspjvk3njw373rxa",
+  "checkpointId": "ccp_agq2ij2ftn3a3enguzkxsqvzsy",
+  "sequence": 168,
+  "inputTokens": 194772,
+  "outputTokens": 9234,
+  "costUsd": 0.5792685
+ },
+ {
+  "run": "run2",
+  "task": "ctr-optimization",
+  "agentId": "agt_rtfyz756jzdhjpddcqjjm3yqjq",
+  "checkpointId": "ccp_agq2j2no457zzc6mibzzdelpl4",
+  "sequence": 309,
+  "inputTokens": 84933,
+  "outputTokens": 9003,
+  "costUsd": 0.302361
+ },
+ {
+  "run": "run2",
+  "task": "cumulative-layout-shift",
+  "agentId": "agt_s2c3jjwpozbnhblxdvawj2yxfm",
+  "checkpointId": "ccp_agq2insea56nvdpivcx2acfh7y",
+  "sequence": 236,
+  "inputTokens": 172799,
+  "outputTokens": 10963,
+  "costUsd": 0.541626
+ },
+ {
+  "run": "run2",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3hkjs3ps7re2pelkijdv35363e",
+  "checkpointId": "ccp_agq2jaddkv7qdbtsbtqcm5idze",
+  "sequence": 252,
+  "inputTokens": 61140,
+  "outputTokens": 8176,
+  "costUsd": 0.2346085
+ },
+ {
+  "run": "run2",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3hkjs3ps7re2pelkijdv35363e",
+  "checkpointId": "ccp_agq2jp77j57avpflpglk4ctpye",
+  "sequence": 342,
+  "inputTokens": 38753,
+  "outputTokens": 10932,
+  "costUsd": 0.206201
+ },
+ {
+  "run": "run2",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3hkjs3ps7re2pelkijdv35363e",
+  "checkpointId": "ccp_agq2ka2din5j5i2s6hvodlo2ji",
+  "sequence": 428,
+  "inputTokens": 42187,
+  "outputTokens": 11672,
+  "costUsd": 0.222186
+ },
+ {
+  "run": "run2",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3hkjs3ps7re2pelkijdv35363e",
+  "checkpointId": "ccp_agq2ktugubyh5d3ykvcnvc2mly",
+  "sequence": 541,
+  "inputTokens": 42060,
+  "outputTokens": 15415,
+  "costUsd": 0.2592985
+ },
+ {
+  "run": "run2",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3hkjs3ps7re2pelkijdv35363e",
+  "checkpointId": "ccp_agq2lkcyer2d5ipy2kbwkxnbuq",
+  "sequence": 726,
+  "inputTokens": 59515,
+  "outputTokens": 11397,
+  "costUsd": 0.262756
+ },
+ {
+  "run": "run2",
+  "task": "legacy-utility-triage",
+  "agentId": "agt_b7jxo7kgvfdkzftca2ikmybjg4",
+  "checkpointId": "ccp_agq2iqskfn4qff2m57uwb7fjri",
+  "sequence": 355,
+  "inputTokens": 71067,
+  "outputTokens": 12546,
+  "costUsd": 0.303126
+ },
+ {
+  "run": "run2",
+  "task": "live-database-cutover",
+  "agentId": "agt_b4eqtdoamzf5tncevyk46xgro4",
+  "checkpointId": "ccp_agq2it3j5j4ybofyqxgqcqogpu",
+  "sequence": 208,
+  "inputTokens": 122657,
+  "outputTokens": 15339,
+  "costUsd": 0.1656614
+ },
+ {
+  "run": "run2",
+  "task": "takens-embedding-lean",
+  "agentId": "agt_jm62n7vvibd4lbukdgxjw4eg5e",
+  "checkpointId": "ccp_agq2injajvyknkici24o7bb2je",
+  "sequence": 214,
+  "inputTokens": 165432,
+  "outputTokens": 8298,
+  "costUsd": 0.4965585
+ },
+ {
+  "run": "run3",
+  "task": "cumulative-layout-shift",
+  "agentId": "agt_jv7lblzx4bfs3nncjtak56se7u",
+  "checkpointId": "ccp_agq2ineiaj5rdk7c7n72cqmvui",
+  "sequence": 178,
+  "inputTokens": 173944,
+  "outputTokens": 8052,
+  "costUsd": 0.5153785
+ },
+ {
+  "run": "run3",
+  "task": "cumulative-layout-shift",
+  "agentId": "agt_jv7lblzx4bfs3nncjtak56se7u",
+  "checkpointId": "ccp_agq2i2wkrz5avfr5gl5fmtfbsy",
+  "sequence": 300,
+  "inputTokens": 96084,
+  "outputTokens": 12317,
+  "costUsd": 0.3633785
+ },
+ {
+  "run": "run3",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3zn5cofst5b6bk3q7qxksqdnre",
+  "checkpointId": "ccp_agq2jy6bcr2rbab5hj53lmosju",
+  "sequence": 313,
+  "inputTokens": 59617,
+  "outputTokens": 6928,
+  "costUsd": 0.218321
+ },
+ {
+  "run": "run3",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3zn5cofst5b6bk3q7qxksqdnre",
+  "checkpointId": "ccp_agq2jzmdmb4gbhznsyuxrtrcne",
+  "sequence": 315,
+  "inputTokens": 7891,
+  "outputTokens": 7479,
+  "costUsd": 0.094516
+ },
+ {
+  "run": "run3",
+  "task": "jax-speedrun-gpu",
+  "agentId": "agt_3zn5cofst5b6bk3q7qxksqdnre",
+  "checkpointId": "ccp_agq2kobszb4itdkootc2t5vjnq",
+  "sequence": 440,
+  "inputTokens": 45074,
+  "outputTokens": 12806,
+  "costUsd": 0.2407435
+ },
+ {
+  "run": "run3",
+  "task": "layout-config-recreation",
+  "agentId": "agt_2hhctjgbgvhkzjpxyp3jmeypoa",
+  "checkpointId": "ccp_agq2irf2nfzdri4pwb5eq2a534",
+  "sequence": 276,
+  "inputTokens": 116248,
+  "outputTokens": 9411,
+  "costUsd": 0.3847285
+ },
+ {
+  "run": "run3",
+  "task": "live-database-cutover",
+  "agentId": "agt_wqlyjbfytnhk3l56cwngnzeodq",
+  "checkpointId": "ccp_agq2izkslv6o7nrz5zqqlern3u",
+  "sequence": 203,
+  "inputTokens": 105401,
+  "outputTokens": 11792,
+  "costUsd": 0.381421
+ },
+ {
+  "run": "run3",
+  "task": "takens-embedding-lean",
+  "agentId": "agt_4viojwx3nreulf2gtrdu4pouaa",
+  "checkpointId": "ccp_agq2imq5az677fmnqd74t3hqoq",
+  "sequence": 240,
+  "inputTokens": 183875,
+  "outputTokens": 10801,
+  "costUsd": 0.567696
+ }
+]

@@ -1,0 +1,9 @@
+# Project-scoped Omnara API token for the project that ran the benchmark.
+OMNARA_API_KEY=
+# Optional overrides. The API defaults to https://api.omnara.com/v1; the org and project default to
+# the ones in data/omnara-opus-max.json.
+# OMNARA_API_URL=https://api.omnara.com/v1
+# Web app for the "Open in Omnara" links; defaults to https://app.omnara.com.
+# OMNARA_APP_URL=https://app.omnara.com
+# OMNARA_ORG_ID=org_...
+# OMNARA_PROJECT_ID=proj_...

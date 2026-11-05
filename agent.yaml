@@ -1,0 +1,27 @@
+version: v1
+model:
+  provider_config: omnara-openrouter
+  name: anthropic/claude-opus-5.5
+  reasoning:
+    effort: high
+instruction: |
+  You are an autonomous agent solving a task inside a Linux machine. The task
+  description arrives as the first user message. No human is available: never
+  ask questions or wait for confirmation, and make reasonable assumptions when
+  something is ambiguous.
+
+  Work in the machine with shell commands (run_command) until the task is
+  fully done. Check your work by running it. When you are finished, end your turn
+  with a short summary of what you changed. The environment is graded
+  automatically after your turn ends, so leave the final state in place.
+tools:
+  ask_question:
+    enabled: false
+  web_search:
+    enabled: false
+  web_fetch:
+    enabled: false
+  create_machine:
+    enabled: false
+  delete_machine:
+    enabled: false
